@@ -1,0 +1,265 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation – IoT</title>
+    <link>//localhost:1313/docs/it/netzwerkprotokolle/iot/</link>
+    <description>Recent content in IoT on Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/it/netzwerkprotokolle/iot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/iot/bluetooth-le/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/iot/bluetooth-le/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Das &lt;a href=&#34;https://de.wikipedia.org/wiki/Bluetooth_Low_Energy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluetooth LE&lt;/a&gt; (auch Bluetooth Smart genannt) Netzwerkprotokoll ist die stromsparende Variante von Bluetooth und wird für IoT-Anwendungen verwendet.&lt;/p&gt;
+&lt;h3&gt;Standard&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;standard&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#standard&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Bluetooth LE war in &lt;a href=&#34;https://en.wikipedia.org/wiki/IEEE_802.15#IEEE_802.15.1:_WPAN_/_Bluetooth&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE802.15.1&lt;/a&gt; genormt, wird aber nicht mehr verwendet.&lt;/p&gt;
+&lt;h3&gt;Übertragungsmedium&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;übertragungsmedium&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c3%bcbertragungsmedium&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Übertragen wird dabei über ein Funkband im 2,4 GHz Bereich&lt;/p&gt;
+&lt;h3&gt;Vorteile&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vorteile&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vorteile&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Niedriger Energieverbrauch (zwischen 0,01W und 0,5W&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;)&lt;/li&gt;
+&lt;li&gt;Schneller Verbindungsaufbau&lt;/li&gt;
+&lt;li&gt;Geringe Latenz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Nachteile&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;nachteile&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#nachteile&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Niedrige Datenrate (max. 1 Mbit/s)&lt;/li&gt;
+&lt;li&gt;Zertifizierungskosten&lt;/li&gt;
+&lt;li&gt;Sicherheitsrisiken&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;abhängig von der verwendeten Übertragungsbandbreite&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/iot/dect-ule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/iot/dect-ule/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Das &lt;a href=&#34;https://de.wikipedia.org/wiki/Digital_Enhanced_Cordless_Telecommunications#DECT_ULE_%28Ultra_Low_Energy%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DECT ULE&lt;/a&gt; (Digital Enhanced Cordless Telecommunications Ultra Low Energy) Netzwerkprotokoll ist eine Funktechnologie und wird für IoT-Anwendungen verwendet. Es basiert auf dem DECT-Standard und wurde spezielle für die Anwendung in IoT Geräten entwickelt.&lt;/p&gt;
+&lt;h3&gt;Standard&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;standard&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#standard&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;[TODO]&lt;/p&gt;
+&lt;h3&gt;Übertragungsmedium&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;übertragungsmedium&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c3%bcbertragungsmedium&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Übertragen wird dabei über ein Funkband im 2,4 GHz Bereich&lt;/p&gt;
+&lt;h3&gt;Vorteile&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vorteile&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vorteile&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Verschlüsselte Kommunikation&lt;/li&gt;
+&lt;li&gt;Hohe Reichweite&lt;/li&gt;
+&lt;li&gt;Geringe Störungsanfälligkeit (durch reserviertes Frequenzband)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Nachteile&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;nachteile&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#nachteile&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Nicht weit verbreitet im IoT&lt;/li&gt;
+&lt;li&gt;Hohe Abhängigkeit des Herstellers&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/iot/lora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/iot/lora/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Das proprietär &lt;a href=&#34;https://en.wikipedia.org/wiki/LoRa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LoRa&lt;/a&gt; Netzwerkprotokoll ist eine Funktechnologie und wird für IoT-Anwendungen verwendet. Diese basiert auf der Chirp Spread Spectrum (CSS)-Modulation.&lt;/p&gt;
+&lt;h3&gt;Standard&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;standard&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#standard&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LoRa#LoRaWAN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LoRaWAN&lt;/a&gt; (Long Range Wide Area Network), spezifiziert von der &lt;a href=&#34;https://en.wikipedia.org/wiki/LoRa#LoRa_Alliance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LoRa Alliance&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Übertragungsmedium&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;übertragungsmedium&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c3%bcbertragungsmedium&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Übertragung über Funktechnologie mit Frequenzen im Sub-GHz-Bereich (meist 868 MHz)&lt;/p&gt;
+&lt;h3&gt;Vorteile&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vorteile&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vorteile&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;sehr hohe Reichweite (bis zu 10 km)&lt;/li&gt;
+&lt;li&gt;geringer Energieverbrauch&lt;/li&gt;
+&lt;li&gt;gute Gebäudedurchdringung&lt;/li&gt;
+&lt;li&gt;Verschlüsselte Kommunikation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Nachteile&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;nachteile&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#nachteile&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;geringe Datenrate&lt;/li&gt;
+&lt;li&gt;lizenzierte Gateways für öffentliche Netzwerke benötigt&lt;/li&gt;
+&lt;li&gt;begrenzte Anzahl an gleichzeitige Verbindungen je Gateway&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/iot/matter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/iot/matter/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Das offene &lt;a href=&#34;https://en.wikipedia.org/wiki/Matter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matter&lt;/a&gt; Netzwerkprotokoll (ehemals Project CHIP - Connected Home over IP genannt) ist eine Funktechnologie und wird für IoT-Anwendungen verwendet.&lt;/p&gt;
+&lt;h3&gt;Standard&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;standard&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#standard&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Es ist ein offener Standard, der von der &lt;a href=&#34;https://en.wikipedia.org/wiki/Connectivity_Standards_Alliance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Connectivity Standards Alliance&lt;/a&gt; (CSA) entwickelt wurde.&lt;/p&gt;
+&lt;h3&gt;Übertragungsmedium&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;übertragungsmedium&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c3%bcbertragungsmedium&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Nutzt bestehende Protokolle, wie WLAN, Ethernet, Thread und [[Bluetooth LE]] (BLE) für die Kommunikation.&lt;/p&gt;
+&lt;h3&gt;Vorteile&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vorteile&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vorteile&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Geräte verschiedener Hersteller arbeiten nahtlos zusammen.&lt;/li&gt;
+&lt;li&gt;Verschlüsselte Kommunikation&lt;/li&gt;
+&lt;li&gt;Einfache Einrichtung über QR-Codes oder NFC.&lt;/li&gt;
+&lt;li&gt;Unterstützung durch viele große Tech-Unternehmen unterstützt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Nachteile&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;nachteile&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#nachteile&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Wenige Unterstützung von Geräten, da relativ neu.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/iot/mqtt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/iot/mqtt/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#TODO
+Definition: Das &lt;a href=&#34;https://en.wikipedia.org/wiki/MQTT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MQTT&lt;/a&gt; (Message Queuing Telemetry Transport) IoT-Netzwerkprotokoll ist eine Funktechnologie zur Machine-to-Machine-Kommunikation und wird für IoT-Anwendungen verwendet.&lt;/p&gt;
+&lt;h3&gt;Standard&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;standard&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#standard&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;ISO/IEC 20922:2016&lt;/p&gt;
+&lt;h3&gt;Übertragungsmedium&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;übertragungsmedium&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c3%bcbertragungsmedium&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Nutzt bestehende Protokolle, wie WLAN, Ethernet, Mobilfunk, [[Bluetooth LE]] und [[LoRa#Standard|LoRaWAN]] für die Kommunikation.&lt;/p&gt;
+&lt;h3&gt;Vorteile&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vorteile&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vorteile&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Geringer Bandbreitennutzung (Overhead)&lt;/li&gt;
+&lt;li&gt;Lightweight&lt;/li&gt;
+&lt;li&gt;Möglichkeit der Wahrnehmung von Dienstverlustes&lt;/li&gt;
+&lt;li&gt;Flexibel und Skalierbar&lt;/li&gt;
+&lt;li&gt;Einfach zu implementieren und zu verwenden&lt;/li&gt;
+&lt;li&gt;geringer Integrationsaufwand&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Nachteile&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;nachteile&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#nachteile&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Nicht verschlüsselte Kommunikation&lt;/li&gt;
+&lt;li&gt;Eingeschränkte Funktionen&lt;/li&gt;
+&lt;li&gt;Benötigt Broker als zentralen Punkt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Kommunikationsparadigma&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;kommunikationsparadigma&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#kommunikationsparadigma&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;![[mqtt_Kommunikationsparadigma.webp]]&lt;/p&gt;
+&lt;h4&gt;Sensor&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;sensor&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sensor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Das ist der Sensor, welcher einen Wert auslesen kann. Dabei kommuniziert dieser ausschließlich mit dem MQTT-Broker.&lt;/p&gt;
+&lt;h4&gt;MQTT-Broker&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mqtt-broker&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mqtt-broker&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Der MQTT-Broker ist der Publisher in diesem Prinzip. Er hält eine Verbindung mit dem Sensor und leitet den Subscribern den ausgelesenen Wert, unter einem bestimmten Topic, weiter.&lt;/p&gt;
+&lt;h4&gt;Subscriber&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;subscriber&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#subscriber&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Ein Subscriber kann jegliches empfangendes Endgerät sein. Dieses Endgerät kann unter Angabe des Topics den Wert in dem angegebenen Topic erhalten, indem es diesem Topic subscribed.&lt;/p&gt;
+&lt;h3&gt;Topic und Filterung​&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;topic-und-filterung&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#topic-und-filterung&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Topic ist eine UTF-8-Zeichenkette​&lt;/li&gt;
+&lt;li&gt;Hierarchiestufen sind Level und sind optional und dienen der Strukturierung​.&lt;/li&gt;
+&lt;li&gt;Durch diese Struktur ist Filterung möglich (z. B. Auswahl des Subscribers oder Umsetzung eines Berechtigungskonzepts auf dem Broker)​&lt;/li&gt;
+&lt;li&gt;Level werden durch &lt;code&gt;/&lt;/code&gt; getrennt​. Diese werden Topic Level Separator (TLS) genannt.&lt;/li&gt;
+&lt;li&gt;Jedes Topic besteht mindestens aus einem Zeichen​&lt;/li&gt;
+&lt;li&gt;Auch Leerzeichen sind möglich​&lt;/li&gt;
+&lt;li&gt;Schreibweise ist case-sensitive&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;+&lt;/code&gt; und &lt;code&gt;#&lt;/code&gt; innerhalb eines Levels haben eine besondere Bedeutung​&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Beispiel&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;beispiel&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#beispiel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Im Folgenden wird bei jedem Topic mindestens das im ersten Beispiel spezifisch genannte Topic abgefragt.&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;BS_FFB/Block_A/OG_1/146/Temp1​&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;BS_FFB/Block_A/&amp;#43;/&amp;#43;/Temp1​ # Ein &amp;#43; ist eine single-level-wildcard&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;BS_FFB/Block_A/#/Temp1​ # Ein # ist eine multi-level-wildcard&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/iot/opc-ua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/iot/opc-ua/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Das &lt;a href=&#34;en.wikipedia.org/wiki/OPC_Unified_Architecture&#34; &gt;OPC UA&lt;/a&gt; (OPC Unified Architecture) IoT-Netzwerkprotokoll ist eine Funktechnologie entwickelt von der &lt;a href=&#34;https://en.wikipedia.org/wiki/OPC_Foundation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OPC Foundation&lt;/a&gt;. Es wird für IoT-Anwendungen verwendet.&lt;/p&gt;
+&lt;h3&gt;Standard&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;standard&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#standard&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;IEC62541&lt;/p&gt;
+&lt;h3&gt;Übertragungsmedium&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;übertragungsmedium&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c3%bcbertragungsmedium&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Nutzt bestehende Protokolle, wie WLAN, Ethernet und TSN für die Kommunikation.&lt;/p&gt;
+&lt;h3&gt;Vorteile&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vorteile&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vorteile&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Plattformunabhängig&lt;/li&gt;
+&lt;li&gt;Verschlüsselte Kommunikation&lt;/li&gt;
+&lt;li&gt;Objektorientierte Datenmodellierung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Nachteile&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;nachteile&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#nachteile&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Höherer Implementierungsaufwand (als z.B.: [[MQTT]])&lt;/li&gt;
+&lt;li&gt;Komplexe Zertifikatsverwaltung&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

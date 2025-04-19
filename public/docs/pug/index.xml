@@ -1,0 +1,192 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation – PuG</title>
+    <link>//localhost:1313/docs/pug/</link>
+    <description>Recent content in PuG on Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/pug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/pug/ausbildungsvertrag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/pug/ausbildungsvertrag/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Der &lt;a href=&#34;https://de.wikipedia.org/wiki/Berufsausbildungsvertrag&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ausbildungsvertrag&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; beschreibt den Vertrag zwischen dem Auszubildenden (Schüler)&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; und dem Ausbildenden (Betrieb). Durch diesen entsteht ein &lt;a href=&#34;https://de.wikipedia.org/wiki/Berufsausbildungsverh%C3%A4ltnis_%28Deutschland%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berufsausbildungsverhältnis&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Inhalt eines Ausbildungsvertrag&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;inhalt-eines-ausbildungsvertrag&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#inhalt-eines-ausbildungsvertrag&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Ausbildungsdauer&lt;/li&gt;
+&lt;li&gt;Bestandteile der Vergütung und sonstige Leistungen&lt;/li&gt;
+&lt;li&gt;Pflichten des Auszubildenden&lt;/li&gt;
+&lt;li&gt;Pflichten des Ausbildenden&lt;/li&gt;
+&lt;li&gt;Ausbildungsstätte&lt;/li&gt;
+&lt;li&gt;Ermächtigung zur Anmeldung zur Prüfung&lt;/li&gt;
+&lt;li&gt;Ausbildungszeit, Anrechnung und [[Bundesurlaubsgesetzes (BUrlG)#^d10476|Urlaub]]&lt;/li&gt;
+&lt;li&gt;Kündigung&lt;/li&gt;
+&lt;li&gt;Betriebliches Zeugnis&lt;/li&gt;
+&lt;li&gt;Beilegung von Streitigkeiten&lt;/li&gt;
+&lt;li&gt;Erfüllungsort&lt;/li&gt;
+&lt;li&gt;Sonstige Vereinbarungen; Hinweis auf Betriebs- bzw. Dienstvereinbarungen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Wichtige Eigenschaften eines Ausbildungsvertrag&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;wichtige-eigenschaften-eines-ausbildungsvertrag&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#wichtige-eigenschaften-eines-ausbildungsvertrag&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Abschluss des Ausbildungsvertrag muss schriftlich erfolgen
+Die Dauer der Probezeit ist &lt;a href=&#34;https://www.gesetze-im-internet.de/bbig_2005/__20.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gesetzlich&lt;/a&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; auf 1 - 4 Monate geregelt&lt;/p&gt;
+&lt;h3&gt;Pflichten und Rechte des Auszubildenden&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pflichten-und-rechte-des-auszubildenden&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pflichten-und-rechte-des-auszubildenden&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Pflichten:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Einhaltung der [[Arbeitszeitgesetz (ArbZG)#^1b4a2a|Pause]]&lt;/li&gt;
+&lt;li&gt;Lernpflicht&lt;/li&gt;
+&lt;li&gt;Weisungsgebundenheit&lt;/li&gt;
+&lt;li&gt;Betriebliche Ordnung&lt;/li&gt;
+&lt;li&gt;Sorgfaltspflicht&lt;/li&gt;
+&lt;li&gt;Betriebsgeheimnisse&lt;/li&gt;
+&lt;li&gt;Führen eines schriftlichen Ausbildungsnachweises&lt;/li&gt;
+&lt;li&gt;Erholungspflicht&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Rechte:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ausbildungspflicht&lt;/li&gt;
+&lt;li&gt;Freistellung für Berufsschulunterricht&lt;/li&gt;
+&lt;li&gt;Freistellung für außerbetriebliche Ausbildung&lt;/li&gt;
+&lt;li&gt;Anmeldung/Freistellung für Prüfungen&lt;/li&gt;
+&lt;li&gt;Aufsichtspflicht&lt;/li&gt;
+&lt;li&gt;Bereitstellung der Ausbildungsmittel&lt;/li&gt;
+&lt;li&gt;Urlaubsgewährung&lt;/li&gt;
+&lt;li&gt;Vergütungspflicht&lt;/li&gt;
+&lt;li&gt;Zeugnispflicht&lt;/li&gt;
+&lt;li&gt;Zweckgebundene Übertragung von Aufgaben&lt;/li&gt;
+&lt;li&gt;Ausbildungsbezogene Tätigkeiten übertragen&lt;/li&gt;
+&lt;li&gt;Charakterliche Förderung&lt;/li&gt;
+&lt;li&gt;Vermeidung körperlicher Gefährdung&lt;/li&gt;
+&lt;li&gt;Fachlich geeigneter Ausbilder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;, auch Berufsausbildungsvertrag genannt&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Bei Bedarf ein gesetzlicher Vertreter, wie beispielsweise Eltern&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;§20 BBiG&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/pug/das-duale-berufsausbildungssystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/pug/das-duale-berufsausbildungssystem/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Das &lt;a href=&#34;https://de.wikipedia.org/wiki/Duale_Ausbildung&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;duale Berufsausbildungssystem&lt;/a&gt; beschreibt die Berufsausbildung an zwei Lernorten (Ausbildungsbetrieb und Berufsschule) mit einem übergreifenden Lernprozess.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Lernorte:&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Ausbildungsbetrieb:&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Berufsschule:&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Gesetzlich Grundlage:&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Berufsbildungsgesetz_%28Deutschland%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BBiG&lt;/a&gt;: Berufsbildungsgesetz&lt;br&gt;-Ausbildungsordnungen&lt;br&gt;- Handwerksordnung&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Bayerisches_Gesetz_%C3%BCber_das_Erziehungs-_und_Unterrichtswesen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BayEUG&lt;/a&gt;: Bayerisches Gesetz über das Erziehungs- und Unterrichtswesen&lt;br&gt;&lt;a href=&#34;https://www.gesetze-bayern.de/Content/Document/BaySchO2016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BaySchO&lt;/a&gt;: Schulordnung für schulartübergreifende Regelungen an Schulen in Bayern&lt;br&gt;&lt;a href=&#34;https://www.gesetze-bayern.de/Content/Document/BayBSO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BayBSO&lt;/a&gt;: Schulordnung für die Berufsschulen in Bayern&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Aufgabenteilung:&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Praxis&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Theorie&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-flex-col hx-rounded-lg hx-border hx-py-4 hx-px-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;p class=&#34;hx-flex hx-items-center hx-font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx-inline-block hx-align-middle hx-mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;JArbSchG&lt;/p&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;&lt;p&gt;Bei Kindern und Jugendlichen gilt zusätzlich das [[Jugendarbeitsschutzgesetzes (JArbSchG)]]&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3&gt;Vor- und Nachteile des Berufsausbildungssystem&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vor--und-nachteile-des-berufsausbildungssystem&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vor--und-nachteile-des-berufsausbildungssystem&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Vorteile:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;eigenes Gehalt&lt;/li&gt;
+&lt;li&gt;Lernen von Theorie und Praxis&lt;/li&gt;
+&lt;li&gt;Austauschmöglichkeit mit Berufsschulkollegen&lt;/li&gt;
+&lt;li&gt;geringe Jugendarbeitslosigkeit&lt;/li&gt;
+&lt;li&gt;strukturierter Ausbildungsablauf&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nachteile:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Der Auszubildende wird immer wieder aus betrieblichen Abläufen heraus gerissen&lt;/li&gt;
+&lt;li&gt;meistens werden gleichzeitig unterschiedliche Themen an beiden Lernort behandelt&lt;/li&gt;
+&lt;li&gt;Lernstress&lt;/li&gt;
+&lt;li&gt;hohe Kosten für Staat und Betrieb&lt;/li&gt;
+&lt;li&gt;Betrieb fehlt eine Arbeitskraft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Ländervergleich&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ländervergleich&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#l%c3%a4ndervergleich&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Schulische Ausbildung
+&lt;ul&gt;
+&lt;li&gt;Polen&lt;/li&gt;
+&lt;li&gt;Niederlande&lt;/li&gt;
+&lt;li&gt;Italien&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Duale Ausbildung
+&lt;ul&gt;
+&lt;li&gt;Deutschland&lt;/li&gt;
+&lt;li&gt;Österreich&lt;/li&gt;
+&lt;li&gt;Frankreich&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Betriebliche Ausbildung
+&lt;ul&gt;
+&lt;li&gt;United States of America&lt;/li&gt;
+&lt;li&gt;Japan&lt;/li&gt;
+&lt;li&gt;Tschechien&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Gesetze</title>
+      <link>//localhost:1313/docs/pug/gesetze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/pug/gesetze/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

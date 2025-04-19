@@ -1,0 +1,716 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation – BGP</title>
+    <link>//localhost:1313/docs/bgp/</link>
+    <description>Recent content in BGP on Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/bgp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/bgp/beschaffungsprozess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/bgp/beschaffungsprozess/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Ablauf des Beschaffungsprozesses:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Bedarfsanalyse&lt;/li&gt;
+&lt;li&gt;Kundenwünsche ermitteln&lt;/li&gt;
+&lt;li&gt;Lieferanten recherieren&lt;/li&gt;
+&lt;li&gt;Angebote anfragen&lt;/li&gt;
+&lt;li&gt;Angebote vergleichen &amp;amp; Entscheidung treffen&lt;/li&gt;
+&lt;li&gt;Bestellung bei Lieferanten&lt;/li&gt;
+&lt;li&gt;Bestellbestätigung&lt;/li&gt;
+&lt;li&gt;Warenlieferung durch Lieferanten&lt;/li&gt;
+&lt;li&gt;Warenannahme
+1.
+1. Einlagerung
+2. Warenprüfung
+3. mögl. Mängelfeststellung
+2.
+1. Rechnung
+2. Zahlung durch Kunde&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/bgp/bezugskalkulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/bgp/bezugskalkulation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Ermittlung des Bezugspreises (auch Einstandspreis genannt) von Gütern zum Vergleich von Angeboten. Um Angebote über Güter von Lieferanten zu vergleichen ist die Kalkulation des Bezugspreises/Einstandspreises von Nöten. Zur Kalkulation werden die Faktoren der Angebote gegengerechnet um den finalen Preis je Angebot zu berechnen. Dabei wird (sofern möglich) der Preis immer pro Stück berechnet. Dabei werden auch Frachtkostenpauschalen durch die Anzahl der gekauften Einheiten geteilt und addiert.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;table-of-contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#table-of-contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[[#Hauptkriterium|Hauptkriterium]]&lt;/li&gt;
+&lt;li&gt;[[#Andere Kriterien|Andere Kriterien]]&lt;/li&gt;
+&lt;li&gt;[[#Anfragen und Angebote|Anfragen und Angebote]]&lt;/li&gt;
+&lt;li&gt;[[#Beispiel|Beispiel]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Hauptkriterium&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;hauptkriterium&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hauptkriterium&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Das Hauptkriterium, warum sich Unternehmen für einen Lieferanten gegenüber dem anderen Lieferanten entscheiden, ist der &lt;u&gt;Preis&lt;/u&gt;. Die Berechnung des sogenannten Bezugspreises ist anzugeben.&lt;/p&gt;
+&lt;h3&gt;Andere Kriterien&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;andere-kriterien&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#andere-kriterien&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Es gibt noch weitere Entscheidungskriterien für den Kauf von Produkten außer dem Preis. Somit kann es möglich sein, dass ein Produkt/Lieferant dennoch einen Zuschlag erhält, obwohl er preislich im Nachteil liegt. Einiger dieser Kriterien sind folgende:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lieferanten&lt;/li&gt;
+&lt;li&gt;Qualität&lt;/li&gt;
+&lt;li&gt;Unternehmensimage&lt;/li&gt;
+&lt;li&gt;Erfahrung&lt;/li&gt;
+&lt;li&gt;Kulanz&lt;/li&gt;
+&lt;li&gt;Umweltschutz&lt;/li&gt;
+&lt;li&gt;Onlinebewertungen&lt;/li&gt;
+&lt;li&gt;Reaktionszeit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Anfragen und Angebote&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;anfragen-und-angebote&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#anfragen-und-angebote&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Anfragen:&lt;/strong&gt;
+Das Anfragen von Preisen bei einem Lieferanten beinhaltet &lt;u&gt;keine rechtliche Bindung&lt;/u&gt; zur Entscheidung für diesen Lieferanten.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Angebote:&lt;/strong&gt;
+Die Abgabe eines Angebotes an einen Interessenten beinhaltet &lt;u&gt;immer eine rechtliche Bindung&lt;/u&gt;, außer in dem Angebot sind Freizeichnungsklauseln oder zeitliche Beschränkungen angegeben.&lt;/p&gt;
+&lt;h3&gt;Beispiel&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;beispiel&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#beispiel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Anschaffung von &lt;u&gt;sechs&lt;/u&gt; Etikettendruckern.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Angebot 1 von Kai Fit:&lt;/strong&gt;
+Sehr geehrter Herr Birdman,
+zu unserem Etikettendrucker Tip-Top-VC-6 können wir Ihnen folgendes Angebot
+unterbreiten:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preis je Stück 94,00€&lt;/li&gt;
+&lt;li&gt;Verpackung und Fracht 25,00€&lt;/li&gt;
+&lt;li&gt;Ab 5 Stuck 5% Rabat&lt;/li&gt;
+&lt;li&gt;2% Skonto bei Zahlung innerhalb von 14 Tagen&lt;/li&gt;
+&lt;li&gt;zzgl. 19% UST&lt;/li&gt;
+&lt;li&gt;Zahlbar innerhalb von 30 Tagen nach Rechnungseingang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mit freundlichem Gruß
+Kai Fix&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Angebot 2 von Maier GmbH:&lt;/strong&gt;
+sehr geehrter Herr Birdman,
+zu Ihrer Anfrage können wir Ihnen folgendes Angebot unterbreiten:&lt;/p&gt;
+&lt;p&gt;Etikettendrucker Super-Duper-Extrem 3000&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preis je Stück 99,00€ beim Kauf von 6 Stück&lt;/li&gt;
+&lt;li&gt;Versandkostenpauschale 20,00€&lt;/li&gt;
+&lt;li&gt;zusätzlich 8% Sonderrabatt&lt;/li&gt;
+&lt;li&gt;3% Skonto bei Zahlung innerhalb von IO Tagen&lt;/li&gt;
+&lt;li&gt;zzgl. 19% UST&lt;/li&gt;
+&lt;li&gt;Zahlbar innerhalb von 30 Tagen nach Rechnungseingang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mit freundlichem Gruß
+i.A. Brennnessel Fritz&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Kai Fit&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Maier GmbH&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Kalkulation&lt;/td&gt;
+          &lt;td&gt;%&lt;/td&gt;
+          &lt;td&gt;€&lt;/td&gt;
+          &lt;td&gt;%&lt;/td&gt;
+          &lt;td&gt;€&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Listeneinkaufspreis (LEP)&lt;/td&gt;
+          &lt;td&gt;100%&lt;/td&gt;
+          &lt;td&gt;94,00€&lt;/td&gt;
+          &lt;td&gt;100%&lt;/td&gt;
+          &lt;td&gt;99,00€&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;- Lieferantenrabatt&lt;/td&gt;
+          &lt;td&gt;5%&lt;/td&gt;
+          &lt;td&gt;4,70€&lt;/td&gt;
+          &lt;td&gt;8%&lt;/td&gt;
+          &lt;td&gt;7,92€&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;= Zieleinkaufspreis (ZEP)&lt;/td&gt;
+          &lt;td&gt;95%&lt;/td&gt;
+          &lt;td&gt;89,30€&lt;/td&gt;
+          &lt;td&gt;92%&lt;/td&gt;
+          &lt;td&gt;91,08€&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;- Lieferantenskonto&lt;/td&gt;
+          &lt;td&gt;2%&lt;/td&gt;
+          &lt;td&gt;1,79€&lt;/td&gt;
+          &lt;td&gt;3%&lt;/td&gt;
+          &lt;td&gt;2,73€&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;= Bareinkaufspreis (BEP)&lt;/td&gt;
+          &lt;td&gt;98%&lt;/td&gt;
+          &lt;td&gt;87,51€&lt;/td&gt;
+          &lt;td&gt;97%&lt;/td&gt;
+          &lt;td&gt;88,35€&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;+ Bezugskosten&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;4,17€&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;3,33€&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;= Bezugspreis (BP)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;91,68€&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;91,68€&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Nebenrechnungen:&lt;/strong&gt;
+Für Kai Fit:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;Lieferantenrabatt = 94,00€ / 100 * 5 = 4,70€
+Zieleinkaufspreis = 94,00€ - 4,70€ = 89,30€
+Lieferantenskonto = 89,30€ / 98 * 2 = 1,79€
+Bareinkaufspreis = 89,30€ - 1,79€ = 87,51€
+Bezugskostne je Stück = 25,00€ / 6 Stück = 4,17€/Stück
+Bezugspreis = 87,51€ &amp;#43; 4,17€ = 91,68€&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Ergebnis:&lt;/strong&gt; Beide Angebote sind preislich identisch.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/bgp/kalkulationsschema/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/bgp/kalkulationsschema/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Kalkulationsschema für produzierende Betriebe&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;kalkulationsschema-für-produzierende-betriebe&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#kalkulationsschema-f%c3%bcr-produzierende-betriebe&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In einem produzierenden Betrieb wird die Zuschlagskalkulation angewendet, um die Gesamtkosten in &lt;a href=&#34;https://studyflix.de/wirtschaft/einzel-und-gemeinkosten-1459&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Einzel- und Gemeinkosten&lt;/strong&gt;&lt;/a&gt; zu trennen.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Operator&lt;/th&gt;
+          &lt;th&gt;Position&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;Materialeinzelkosten&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Materialgemeinkosten&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;=&lt;/td&gt;
+          &lt;td&gt;Materialkosten&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Fertigungseinzelkosten&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Fertigungsgemeinkosten&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Sondereinzelkosten der Fertigung&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;=&lt;/td&gt;
+          &lt;td&gt;Herstellkosten&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Verwaltungsgemeinkosten&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Vertriebsgemeinkosten&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Sondereinzelkosten des Vertriebs&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;=&lt;/td&gt;
+          &lt;td&gt;Selbstkosten&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Gewinn&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;=&lt;/td&gt;
+          &lt;td&gt;Barverkaufspreis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Kundenskonto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Vertreterprovision&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;=&lt;/td&gt;
+          &lt;td&gt;Zielverkaufspreis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Kundenrabatt&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;=&lt;/td&gt;
+          &lt;td&gt;Nettoverkaufspreis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Umsatzsteuer&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;=&lt;/td&gt;
+          &lt;td&gt;Bruttoverkaufspreis&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Kalkulationsschema für Handelsbetriebe&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;kalkulationsschema-für-handelsbetriebe&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#kalkulationsschema-f%c3%bcr-handelsbetriebe&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Bei Handelsunternehmen spricht man bei dieser Kalkulation von der sogenannten &lt;a href=&#34;https://de.wikipedia.org/wiki/Handelskalkulation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Handelskalkulation&lt;/strong&gt;&lt;/a&gt;. Die [[Bezugskalkulation]], die sich vom Listeneinkaufspreis bis zum Bezugspreis erstreckt, bildet hierbei die &lt;em&gt;elementare Basis&lt;/em&gt;.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Operator&lt;/th&gt;
+          &lt;th&gt;Positon&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Listeneinkaufspreis&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;&lt;em&gt;-&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Lieferrabatt&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;&lt;em&gt;=&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Zieleinkaufspreis&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;&lt;em&gt;-&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Lieferskonto&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;&lt;em&gt;=&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Bareinkaufspreis&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;&lt;em&gt;+&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Bezugskosten&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;&lt;em&gt;=&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;em&gt;Bezugspreis/Einstandspreis&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Handlungskostenzuschlag&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;=&lt;/td&gt;
+          &lt;td&gt;Selbstkostenpreis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Gewinnzuschlag&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;=&lt;/td&gt;
+          &lt;td&gt;Barverkaufspreis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Kundenskonto&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;=&lt;/td&gt;
+          &lt;td&gt;Zielverkaufspreis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Kundenrabatt&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;=&lt;/td&gt;
+          &lt;td&gt;Netto-Verkaufspreis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;Umsatzsteuer&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;=&lt;/td&gt;
+          &lt;td&gt;Brutto-Verkaufspreis&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Kalkulationsarten&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;kalkulationsarten&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#kalkulationsarten&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Vorwärtskalkulation:
+Berechnung ausgehend vom Listeneinkaufspreis. (Von oben nach unten im Schema)&lt;/p&gt;
+&lt;p&gt;Rückwärtskalkulation:
+Berechnung ausgehend vom Verkaufspreis. (Von unten nach oben im Schema)&lt;/p&gt;
+&lt;p&gt;Differenzkalkulation:
+Berechnung des Gewinns aus beiden Richtungen (Von oben nach unten bis zum Selbstkostenpreis und von unten nach oben bis zum Barverkaufspreis). Die Differenz aus Barverkaufspreis und Selbstkostenpreis ist der Gewinn des Unternehmens&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/bgp/kundenw%C3%BCnsche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/bgp/kundenw%C3%BCnsche/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Qualität -&amp;gt; Haltbarkeit
+Günstig Produkte/Dienstleistung
+Service &amp;amp; Support -&amp;gt; Rückgaberecht, Garantie
+kurze Lieferzeiten
+Nachhaltigkeit&lt;/p&gt;
+&lt;h2&gt;Erfassung Kundenbedürfnisse&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;erfassung-kundenbedürfnisse&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#erfassung-kundenbed%c3%bcrfnisse&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Quantitative Methoden (Big Data)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;quantitative-methoden-big-data&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#quantitative-methoden-big-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Umfragen&lt;/li&gt;
+&lt;li&gt;Onlinenanalyse -&amp;gt; Verweildauer auf der Website, Warenkorb, Verlauf&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Qualitative Methoden&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;qualitative-methoden&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#qualitative-methoden&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Feedback und Tests zu Produkten&lt;/li&gt;
+&lt;li&gt;Persönliche Ansprache der Kunden im Geschäft&lt;/li&gt;
+&lt;li&gt;Rückmeldungen von Mitarbeitern&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Kanomodell&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;kanomodell&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#kanomodell&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;systematisches erreichen der Kundenzufriedenheit.
+Beschreibt Zusammenhang zwischen Dienstleistung/Produkt und der Kundenzufriedenheit&lt;/p&gt;
+&lt;h3&gt;Merkmale&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;merkmale&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#merkmale&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Basis-Merkmale
+&lt;ul&gt;
+&lt;li&gt;Merkmale, welche selbstverständlich sind&lt;/li&gt;
+&lt;li&gt;fallen nur auf, wenn diese fehlen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Leistungs-Merkmale
+&lt;ul&gt;
+&lt;li&gt;je besser, desto zufriedener der Kunde&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Begeisterungs-Merkmale
+&lt;ul&gt;
+&lt;li&gt;werden nicht erwartet&lt;/li&gt;
+&lt;li&gt;schafft Kundenzufriedenheit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Unerhebliche-Merkmale
+&lt;ul&gt;
+&lt;li&gt;spielt für den Kunden keine Rolle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Rückweisungs-Merkmale
+&lt;ul&gt;
+&lt;li&gt;ohne wird das Produkt nicht gekauft&lt;/li&gt;
+&lt;li&gt;Produkt wird wieder zurückgesendet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/bgp/produktionsfaktoren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/bgp/produktionsfaktoren/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: &lt;a href=&#34;https://de.wikipedia.org/wiki/Produktionsfaktor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Produktionsfaktoren&lt;/a&gt; sind jene materiellen und immateriellen in der Herstellung verwendeten Güter.&lt;/p&gt;
+&lt;h3&gt;Volkswirtschaftliche Produktionsfaktoren&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;volkswirtschaftliche-produktionsfaktoren&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#volkswirtschaftliche-produktionsfaktoren&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;originäre (ursprüngliche) Faktoren:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Natur&lt;/li&gt;
+&lt;li&gt;Arbeit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;derivative (abgeleitete) Faktoren:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kapital&lt;/li&gt;
+&lt;li&gt;Bildung&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/bgp/smart-prinzip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/bgp/smart-prinzip/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Das &lt;a href=&#34;https://de.wikipedia.org/wiki/SMART_%28Projektmanagement%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMART-Prinzip&lt;/a&gt; (auch Zielformel genannt) wird verwendet, um Ziele korrekt zu formulieren.
+Dabei steht jeder Buchstabe des Akronyms &amp;lsquo;SMART&amp;rsquo; für eine Eigenschaft, welche die Formulierung des Ziels erfüllen sollte. Dabei stellt das SMART-Prinzip nur eine Mindestbeschreibung jener Ziele da.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;S (Spezifisch)
+&lt;ul&gt;
+&lt;li&gt;genau beschrieben&lt;/li&gt;
+&lt;li&gt;nachvollziehbar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;M (messbar)
+&lt;ul&gt;
+&lt;li&gt;Erreichung des Ziels an Messzahlen ersichtlich&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A (attraktiv)
+&lt;ul&gt;
+&lt;li&gt;Übereinstimmung mit den Wertevorstellungen des Unternehmens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;R (realistisch)
+&lt;ul&gt;
+&lt;li&gt;Ziel muss realistisch sein&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;T (terminiert)
+&lt;ul&gt;
+&lt;li&gt;Terminieren des Erreichens eines Ziels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/bgp/unternehmensleitbild/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/bgp/unternehmensleitbild/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Es ist eine klar gegliederte, langfristige Zielvorstellung des Unternehmens und beinhaltete die Strategien mit welchen [[Unternehmensziele]] erreicht werden sollen. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3&gt;Funktionen des Unternehmensleitbildes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;funktionen-des-unternehmensleitbildes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#funktionen-des-unternehmensleitbildes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Orientierungsfunktion
+&lt;ul&gt;
+&lt;li&gt;Mitarbeiter sollen sich bei ihrem Handeln daran richten&lt;/li&gt;
+&lt;li&gt;z.B.: Werte, Normen, Regeln, Vorbilder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Integrationsfunktion
+&lt;ul&gt;
+&lt;li&gt;Erschaffung eines &amp;lsquo;Wir-Gefühls&amp;rsquo;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Entscheidungsfunktion
+&lt;ul&gt;
+&lt;li&gt;Legt Regeln für Kriesen und Spielräume fest&lt;/li&gt;
+&lt;li&gt;Diese gelten für das Unternehmen und die Führungskräfte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Koordinierungsfunktion
+&lt;ul&gt;
+&lt;li&gt;Verbesserung der Zusammenarbeit&lt;/li&gt;
+&lt;li&gt;z.B. zwischen Mitarbeitern, Führungskräften, Kunden, Partnern und der Öffentlichkeit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Probleme mit Unternehmensleitbildes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;probleme-mit-unternehmensleitbildes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#probleme-mit-unternehmensleitbildes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Keine Möglichkeit der Änderung bestehender Muster&lt;/li&gt;
+&lt;li&gt;Denken in Stereotypen&lt;/li&gt;
+&lt;li&gt;Produktivitätsverlustes durch Mangel an Kreativität&lt;/li&gt;
+&lt;li&gt;Mangelnde Identifikation mit Vorgaben des Unternehmens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es ist wichtig das Unternehmensleitbild von Zeit zu Zeit anzupassen, da sich Unternehmen und Welt verändern und dieses weiterhin zum Unternehmen passt.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Es wird teilweise auch &amp;lsquo;Ausformulierung der Unternehmenskultur&amp;rsquo; genannt.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Dies nennt man auch Corporate Identit (Kommunikationsstrategie, Corporate Design, etc.).&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/bgp/unternehmensziele/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/bgp/unternehmensziele/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Diese ermöglichen die Planung des Unternehmensgeschehen und zeigen einen zukünftig, erstrebenswerten Zustand eines Unternehmens auf. Zum Erreichen dieser kann das [[SMART-Prinzip]] verwendet werden.&lt;/p&gt;
+&lt;h3&gt;Ziele&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ziele&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ziele&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Das oberste Ziel eines Unternehmens ist die Erwirtschaftung eines Gewinns.&lt;/p&gt;
+&lt;h3&gt;Unterziele&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;unterziele&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#unterziele&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Ökonomische Unterziele
+&lt;ul&gt;
+&lt;li&gt;Umsatz steigern&lt;/li&gt;
+&lt;li&gt;Kosten senken&lt;/li&gt;
+&lt;li&gt;Effizienz steigern&lt;/li&gt;
+&lt;li&gt;Unabhängigkeit&lt;/li&gt;
+&lt;li&gt;Marktanteil erhöhen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Ökologische Unterziele
+&lt;ul&gt;
+&lt;li&gt;E-Mobilität&lt;/li&gt;
+&lt;li&gt;Nachhaltige Energiequelle&lt;/li&gt;
+&lt;li&gt;Grünflächenerhalt&lt;/li&gt;
+&lt;li&gt;Regionale Lieferanten&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Soziale Unterziele
+&lt;ul&gt;
+&lt;li&gt;Kundenzufriedenheit&lt;/li&gt;
+&lt;li&gt;Sicherung und Erhaltung von Arbeitsplätzen&lt;/li&gt;
+&lt;li&gt;Mitarbeiterförderung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Zielarten&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;zielarten&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#zielarten&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Zielkonflikt&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+&lt;ul&gt;
+&lt;li&gt;stehen in Konkurrenz zueinander&lt;/li&gt;
+&lt;li&gt;nicht gleichzeitig verfolgbar&lt;/li&gt;
+&lt;li&gt;eine Näherung an beide Ziel unmöglich&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Zielharmonie&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;
+&lt;ul&gt;
+&lt;li&gt;Idealbeziehung&lt;/li&gt;
+&lt;li&gt;bei Verfolgung des einen Ziels, wird sich einem anderen Ziel ebenfalls genähert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;indifferente Ziele&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;
+&lt;ul&gt;
+&lt;li&gt;gleichzeitig verfolgbar&lt;/li&gt;
+&lt;li&gt;keine gegenseitige Einwirkung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;, auch konkurrierende Ziele genannt&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;, auch komplementäre Ziele genannt&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;z.B.: Betriebsklima verbessern und Mitarbeiterzufriedenheit erhöhen&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/bgp/wirtschaftskreislauf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/bgp/wirtschaftskreislauf/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Der &lt;a href=&#34;https://de.wikipedia.org/wiki/Wirtschaftskreislauf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wirtschaftskreislauf&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; beschreibt dem Umlaufprozess von Gütern den dafür aufgewendeten Zahlungsmitteln. Jeder Teilnehmer im Wirtschaftskreislauf bietet [[Produktionsfaktoren]]&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; an.&lt;/p&gt;
+&lt;h3&gt;einfacher Wirtschaftskreislauf&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;einfacher-wirtschaftskreislauf&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#einfacher-wirtschaftskreislauf&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Ausgangspunkt:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nur folgende Teilnehmer (Haushalt und Unternehmen)&lt;/li&gt;
+&lt;li&gt;keine außenwirtschaftlichen Beziehungen&lt;/li&gt;
+&lt;li&gt;es wird das gesamte Einkommen verbraucht&lt;/li&gt;
+&lt;li&gt;es werden alle Güter verbraucht&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Die beiden Teilnehmer (Unternehmen und Haushalte) sind zu sog. Sektoren zusammengefasst.&lt;/p&gt;
+&lt;p&gt;![[einfacher_Wirtschaftskreislauf.png]]&lt;/p&gt;
+&lt;h3&gt;erweiterter Wirtschaftskreislauf&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;erweiterter-wirtschaftskreislauf&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#erweiterter-wirtschaftskreislauf&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Ausgangspunkt:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alle folgende Teilnehmer (Haushalt, Unternehmen, Ausland, Staat, Finanzsektor)&lt;/li&gt;
+&lt;li&gt;außenwirtschaftlichen Beziehungen&lt;/li&gt;
+&lt;li&gt;es wird nur ein Teil des Einkommens verbraucht (Ersparnisbildung)&lt;/li&gt;
+&lt;li&gt;es wird nur ein Teil der produzierten Güter verbraucht (Investitionszwecke)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;![[erweiterter_wirtschaftskreislauf.png]]&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;englisch Circular flow of income&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;jene materiellen und immateriellen in der Herstellung verwendeten Güter&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

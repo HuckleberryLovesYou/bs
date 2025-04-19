@@ -1,0 +1,201 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation – ISO-OSI Referenzmodell</title>
+    <link>//localhost:1313/docs/it/iso-osi-referenzmodell/</link>
+    <description>Recent content in ISO-OSI Referenzmodell on Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/it/iso-osi-referenzmodell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/iso-osi-referenzmodell/schicht-1---bit%C3%BCbertragungsschicht-pysical-layer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/iso-osi-referenzmodell/schicht-1---bit%C3%BCbertragungsschicht-pysical-layer/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Die &lt;a href=&#34;https://de.wikipedia.org/wiki/OSI-Modell#Schicht_1_%E2%80%93_Bit%C3%BCbertragungsschicht_%28Physical_Layer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bitübertragungsschicht&lt;/a&gt; ist die unterste Schicht des [[_ISO-OSI Referenzmodell|ISO-OSI Referenzmodell]]. Auf dieser Schicht befinden sich physische Verbindungen und die Übertragung von Bits über diese.&lt;/p&gt;
+&lt;h3&gt;Hardware&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;hardware&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hardware&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Die Hardware auf dieser Schicht sind rudimentäre physische Verbindungen, wie &lt;a href=&#34;https://de.wikipedia.org/wiki/Repeater&#34; title=&#34;Repeater&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Repeater&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Hub_%5c%28Netzwerktechnik%5c%29&#34; title=&#34;Hub (Netzwerktechnik)&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hubs&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Leitung_%5c%28Nachrichtennetz%5c%29&#34; title=&#34;Leitung (Nachrichtennetz)&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leitungen&lt;/a&gt;(z.B.: LWL, Kupfer), &lt;a href=&#34;https://de.wikipedia.org/wiki/Steckverbinder&#34; title=&#34;Steckverbinder&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stecker&lt;/a&gt; (z.B.: RJ45, SC/APC) und weitere.&lt;/p&gt;
+&lt;h3&gt;Übertragungsart&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;übertragungsart&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c3%bcbertragungsart&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Die Signalübertragung findet über modulierte, hochfrequente, elektromagnetische Wellen oder Lichtimpulsen auf einer oder mehrerer Wellenlängen auf obiger Hardware statt.&lt;/p&gt;
+&lt;h3&gt;Protokolle&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;protokolle&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#protokolle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Ethernet#Gigabit-Ethernet&#34; title=&#34;Ethernet&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1000BASE-T&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Token_Ring&#34; title=&#34;Token Ring&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Token Ring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/ARCNET&#34; title=&#34;ARCNET&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARCNET&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/iso-osi-referenzmodell/schicht-2---sicherungsschicht-data-link-layer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/iso-osi-referenzmodell/schicht-2---sicherungsschicht-data-link-layer/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Die &lt;a href=&#34;https://de.wikipedia.org/wiki/OSI-Modell#Schicht_2_%E2%80%93_Sicherungsschicht_%28Data_Link_Layer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sicherungsschicht&lt;/a&gt; ist die zweite Schicht des [[_ISO-OSI Referenzmodell|ISO-OSI Referenzmodell]]. Aufgabe dieser Schicht ist, eine möglichst fehlerfreie Übertragung von Daten in einem Netzwerk zu ermöglichen und Zugriff auf das Übertragungsmedium zu regeln. Auf dieser Schicht findet eine Punkt-zu-Punkt Verbindung statt.&lt;/p&gt;
+&lt;h3&gt;Hardware&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;hardware&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hardware&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Auf dieser Schicht befindet sich folgende Hardware:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Bridge_%5c%28Netzwerk%5c%29&#34; title=&#34;Bridge (Netzwerk)&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Switch_%5c%28Netzwerktechnik%5c%29&#34; title=&#34;Switch (Netzwerktechnik)&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Switch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Wireless_Access_Point&#34; title=&#34;Wireless Access Point&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access Point&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Übertragungsart&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;übertragungsart&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c3%bcbertragungsart&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Bei der Übertragung werden Bitdatenströme, welche auf den oberen Schichten generiert wurden,
+in einzelne Blöcke (sogenannte Frames) aufgeteilt. Um mögliche Übertragungsfehler zu erkennen, werden zusätzlich an Prüfsummen zu den Frames angehängt, welche der Empfänger prüfen und im Fehlerfall den Frame verwerfen oder korrigieren kann.&lt;/p&gt;
+&lt;h3&gt;Protokolle&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;protokolle&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#protokolle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Ethernet&#34; title=&#34;Ethernet&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE 802.3 Ethernet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/IEEE_802.11&#34; title=&#34;IEEE 802.11&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE 802.11 WLAN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/TokenTalk_Link_Access_Protocol&#34; title=&#34;TokenTalk Link Access Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TLAP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Fiber_Distributed_Data_Interface&#34; title=&#34;Fiber Distributed Data Interface&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FDDI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Media_Access_Control&#34; title=&#34;Media Access Control&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;PDU&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pdu&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pdu&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Das [[Protocol data unit (PDU)]] auf dieser Schicht nennt sich Frames. Bei einem untagged Ethernet 2 Frame wird dabei an den Datensatz ein Header vorne angebaut und einen Trailer mit der Frame Check Sum (FCS) anhängt. Im Header befinden sich unter anderem in Reihenfolge links nach rechts zuerst die Destination (Ziel-)MAC-Adresse, die Source (Quell-)MAC-Adresse und das Typenfeld, sowie weitere Verwaltungsinformationen.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/iso-osi-referenzmodell/schicht-3---vermittlungsschicht-network-layer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/iso-osi-referenzmodell/schicht-3---vermittlungsschicht-network-layer/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Die &lt;a href=&#34;https://de.wikipedia.org/wiki/OSI-Modell#Schicht_2_%E2%80%93_Sicherungsschicht_%28Data_Link_Layer%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vermittlungsschicht&lt;/a&gt; ist die dritte Schicht des [[_ISO-OSI Referenzmodell|ISO-OSI Referenzmodell]]. Aufgabe dieser Schicht ist, Daten in und durch andere Netzwerke zu bewegen mittels netzwerkübergreifender Adressen, sowie Routing. Auf dieser Schicht findet eine &lt;u&gt;physische&lt;/u&gt; &lt;em&gt;Ende-zu-Ende Verbindung&lt;/em&gt; statt.&lt;/p&gt;
+&lt;h3&gt;Hardware&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;hardware&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hardware&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Auf dieser Schicht befindet sich folgende Hardware:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Router&#34; title=&#34;Router&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Router&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Layer-3-Switch](&lt;a href=&#34;https://de.wikipedia.org/wiki/Layer-3-Switch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://de.wikipedia.org/wiki/Layer-3-Switch&lt;/a&gt;|Layer 3 Switch)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Protokolle&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;protokolle&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#protokolle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Internet_Control_Message_Protocol&#34; title=&#34;Internet Control Message Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICMP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Internet_Group_Management_Protocol&#34; title=&#34;Internet Group Management Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IGMP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[[Internet Protocol|IP]]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/IPsec&#34; title=&#34;IPsec&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPsec&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Internetwork_Packet_Exchange&#34; title=&#34;Internetwork Packet Exchange&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;PDU&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pdu&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pdu&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Das [[Protocol data unit (PDU)]] auf dieser Schicht nennt sich Paket. Bei einem IPv4-Paket wird dabei an den Datensatz ein Header mit einer Länge von minimal 20 Bytes angebaut. In diesem befinden sich unter anderem in Reihenfolge links nach rechts zuerst die Source (Quell-)IPv4-Adresse, die Destination (Ziel-)IPv4-Adresse und das Typenfeld, sowie weitere Verwaltungsinformationen.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/iso-osi-referenzmodell/schicht-4---transportschicht-transport-layer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/iso-osi-referenzmodell/schicht-4---transportschicht-transport-layer/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Die &lt;a href=&#34;https://en.wikipedia.org/wiki/OSI_model#Layer_4:_Transport_layer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Transportschicht&lt;/a&gt; ist die vierte Schicht des [[_ISO-OSI Referenzmodell|ISO-OSI Referenzmodell]]. Auf dieser Schicht findet eine &lt;u&gt;logische&lt;/u&gt; &lt;em&gt;Ende-zu-Ende Verbindung&lt;/em&gt; statt. Aufgabe dieser Schicht ist die qualitätssichernde Übertragung von Datensätzen variabler Länge zwischen zwei Geräten über Netzwerke hinaus. Die Protokolle dieser Schicht sind entweder Verbindungsorientiert oder Verbindungslos.&lt;/p&gt;
+&lt;h3&gt;Hardware&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;hardware&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hardware&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Auf dieser Schicht befindet sich folgende Hardware:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Next-generation_firewall&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NGFW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Lastverteilung_%28Informatik%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hardware Load Balancer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Protokolle&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;protokolle&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#protokolle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Transmission_Control_Protocol&#34; title=&#34;Transmission Control Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCP (Transmission Control Protocol)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/User_Datagram_Protocol&#34; title=&#34;User Datagram Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UDP (User Datagram Protocol)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Stream_Control_Transmission_Protocol&#34; title=&#34;Stream Control Transmission Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCTP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Sequenced_Packet_Exchange&#34; title=&#34;Sequenced Packet Exchange&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;PDU&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pdu&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pdu&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Das [[Protocol data unit (PDU)]] auf dieser Schicht nennt sich UDP-Datagram oder TCP-Segment basierend auf dem verwendeten Protokoll. Bei einem 1 wird dabei an den Datensatz ein Header mit einer Länge von minimal 20 Bytes und maximal 60 Bytes angebaut. In diesem Header befinden sich &lt;a href=&#34;https://www.pynetlabs.com/transmission-control-protocol-tcp-header/#Components_of_TCP_header&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verwaltungsinformationen&lt;/a&gt;, wie unteranderem die Source- und Destination Portnummer.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/iso-osi-referenzmodell/schicht-5---7-layer-5---7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/iso-osi-referenzmodell/schicht-5---7-layer-5---7/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Die Schichten 5 bis 7 sind Schichten des [[_ISO-OSI Referenzmodell|ISO-OSI Referenzmodell]]. Diese Schichten sind im Gegensatz zu den darunterliegenden Schichten schwierig passend aufzuteilen. Auf diesen Schichten werden Sitzungen verwaltet, Daten verschlüsselt, Daten komprimiert und Funktionen für die Anwendungen.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;table-of-contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#table-of-contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[[#Gemeinsamkeiten|Gemeinsamkeiten]]
+&lt;ul&gt;
+&lt;li&gt;[[#Gemeinsamkeiten#Hardware|Hardware]]&lt;/li&gt;
+&lt;li&gt;[[#Gemeinsamkeiten#PDU|PDU]]&lt;/li&gt;
+&lt;li&gt;[[#Gemeinsamkeiten#Protokolle|Protokolle]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[[#Schicht 5 - Sitzungsschicht (Session layer)|Schicht 5 - Sitzungsschicht (Session layer)]]&lt;/li&gt;
+&lt;li&gt;[[#Schicht 6 - Darstellungsschicht (Presentation layer)|Schicht 6 - Darstellungsschicht (Presentation layer)]]&lt;/li&gt;
+&lt;li&gt;[[#Schicht 7 - Anwendungsschicht (Application layer)|Schicht 7 - Anwendungsschicht (Application layer)]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Gemeinsamkeiten&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;gemeinsamkeiten&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gemeinsamkeiten&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Hardware&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;hardware&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hardware&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Auf dieser Schicht befindet sich folgende Hardware:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Next-generation_firewall&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NGFW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Web_application_firewall&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Web Application Firewall (WAF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Application_delivery_controller&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Application Delivery Controller (ADC)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;PDU&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pdu&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pdu&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Auf den Schichten gibt es noch kein spezielles [[Protocol data unit (PDU)]]. Auf den Schichten 5 - 7 werden Datensätze Nutzdaten genannt. Diese werden von diesen Schichten produziert und werden von unteren Schichten gekapselt.&lt;/p&gt;
+&lt;h4&gt;Protokolle&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;protokolle&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#protokolle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Auf diesen Schichten arbeiten folgende Protokolle:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol&#34; title=&#34;Dynamic Host Configuration Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DHCP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Domain_Name_System&#34; title=&#34;Domain Name System&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DNS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/File_Transfer_Protocol&#34; title=&#34;File Transfer Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FTP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol&#34; title=&#34;Hypertext Transfer Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTTP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure&#34; title=&#34;Hypertext Transfer Protocol Secure&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTTPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol&#34; title=&#34;Lightweight Directory Access Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LDAP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[[MQTT]]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/NetWare_Core_Protocol&#34; title=&#34;NetWare Core Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Real-Time_Transport_Protocol&#34; title=&#34;Real-Time Transport Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RTP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol&#34; title=&#34;Simple Mail Transfer Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMTP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol&#34; title=&#34;Extensible Messaging and Presence Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMPP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Schicht 5 - Sitzungsschicht (Session layer)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;schicht-5---sitzungsschicht-session-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#schicht-5---sitzungsschicht-session-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Die &lt;a href=&#34;https://en.wikipedia.org/wiki/OSI_model#Layer_5:_Session_layer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sitzungsschicht&lt;/a&gt; ist die fünfte Schicht des [[_ISO-OSI Referenzmodell|ISO-OSI Referenzmodell]]. Die Aufgaben dieser Schicht sind der Aufbau von Verbindungen, die Verwaltung laufender Verbindungen und der Abbau von Verbindungen zwischen zwei oder mehr Clients.&lt;/p&gt;
+&lt;h3&gt;Schicht 6 - Darstellungsschicht (Presentation layer)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;schicht-6---darstellungsschicht-presentation-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#schicht-6---darstellungsschicht-presentation-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Die &lt;a href=&#34;https://en.wikipedia.org/wiki/OSI_model#Layer_6:_Presentation_layer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Darstellungsschicht&lt;/a&gt; ist die sechste Schicht des [[_ISO-OSI Referenzmodell|ISO-OSI Referenzmodell]]. Die Aufgabe dieser Schicht ist die Formatierung von Daten und Übersetzung in ein durch die [[Schicht 5 - 7 (Layer 5 - 7)#Schicht 7 - Anwendungsschicht (Application layer)|Anwendungsschicht]] vorgegebenes Format.&lt;/p&gt;
+&lt;h3&gt;Schicht 7 - Anwendungsschicht (Application layer)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;schicht-7---anwendungsschicht-application-layer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#schicht-7---anwendungsschicht-application-layer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Die &lt;a href=&#34;https://en.wikipedia.org/wiki/OSI_model#Layer_7:_Application_layer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Anwendungsschicht&lt;/a&gt; ist die siebte Schicht des [[_ISO-OSI Referenzmodell|ISO-OSI Referenzmodell]]. Diese ist die Schicht, welche am nächsten am Nutzer ist. Die Aufgabe dieser Schicht ist die Bereitstellung von Netzwerkzugriff für Anwendungen und die Benutzerauthentifizierung und Autorisierung.&lt;/p&gt;
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-flex-col hx-rounded-lg hx-border hx-py-4 hx-px-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;p class=&#34;hx-flex hx-items-center hx-font-medium&#34;&gt;&lt;svg height=16px class=&#34;hx-inline-block hx-align-middle hx-mr-2&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z&#34;/&gt;&lt;/svg&gt;Note&lt;/p&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;&lt;p&gt;Anwendungen, wie &lt;a href=&#34;https://en.wikipedia.org/wiki/File_Explorer&#34; title=&#34;File Explorer&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;File Explorer&lt;/a&gt; und &lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Word&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Microsoft Word&lt;/a&gt; gehören nicht zur [[Schicht 5 - 7 (Layer 5 - 7)#Schicht 7 - Anwendungsschicht (Application layer)|Anwendungsschicht]], jedoch &lt;a href=&#34;https://en.wikipedia.org/wiki/Web_browser&#34; title=&#34;Web browser&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Browser&lt;/a&gt; und &lt;a href=&#34;https://en.wikipedia.org/wiki/Email_program&#34; title=&#34;Email program&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E-Mail-Programme&lt;/a&gt; schon.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

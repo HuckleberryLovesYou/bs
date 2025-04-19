@@ -1,0 +1,244 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation – UML</title>
+    <link>//localhost:1313/docs/it/uml/</link>
+    <description>Recent content in UML on Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/it/uml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/uml/uml-aktivit%C3%A4tsdiagramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/uml/uml-aktivit%C3%A4tsdiagramm/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#TODO #Diagramm
+Definition: Das &lt;a href=&#34;https://de.wikipedia.org/wiki/Aktivit%C3%A4tsdiagramm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UML Aktivitätsdiagramm&lt;/a&gt; ist ein Modellelement in der [[UML]] und beschreibt Abläufe von Operationen und Prozessen darzustellen. Im Gegensatz zu den klassischen &lt;a href=&#34;https://de.wikipedia.org/wiki/Programmablaufplan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Programmablaufplänen&lt;/a&gt; (PAP) bzw. &lt;a href=&#34;https://de.wikipedia.org/wiki/Nassi-Shneiderman-Diagramm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Struktogrammen&lt;/a&gt; gibt es zusätzlich einen parallelen Kontrollfluss.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;table-of-contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#table-of-contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[[#Schema|Schema]]&lt;/li&gt;
+&lt;li&gt;[[#Paralleler Kontrollfluss|Paralleler Kontrollfluss]]&lt;/li&gt;
+&lt;li&gt;[[#Alternativer Kontrollfluss|Alternativer Kontrollfluss]]&lt;/li&gt;
+&lt;li&gt;[[#Beispiel|Beispiel]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Schema&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;schema&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#schema&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;![[UML-Aktivitätsdiagramm-Schema.png]]&lt;/p&gt;
+&lt;h3&gt;Paralleler Kontrollfluss&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;paralleler-kontrollfluss&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#paralleler-kontrollfluss&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Zu einem Parallelen Kontrollfluss führt ein dicker schwarzer Balken. Dieser spaltet den Kontrollfluss in mehrere Programmfäden auf. Dieses Symbol nennt sich &amp;lsquo;Parallelisierung&amp;rsquo;. In allen davon ausgehenden Kontrollflüssen laufen die
+Aktionen unabhängig von einander ab. Durch eine erneute Verwendung des schwarzen Balkens können diese wieder synchronisiert werden. Dieses Symbol nennt sich &amp;lsquo;Synchronisation&amp;rsquo;. Wenn alle Aktionen aller eingehenden Programmstränge ausgeführt wurden, wird der Kontrollfluss fortgesetzt.&lt;/p&gt;
+&lt;h3&gt;Alternativer Kontrollfluss&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;alternativer-kontrollfluss&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#alternativer-kontrollfluss&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Durch das Symbol einer Raute wird der Kontrollfluss alternativ durch eine Entscheidung verzweigt. Die Verzweigungsbedingung wird neben den ausgehenden Linien in eckigen Klammern (auch guards genannt) geschrieben. Eine Zusammenführung alternativer Programmabläufe muss ebenfalls über eine Raute erfolgen.&lt;/p&gt;
+&lt;h3&gt;Beispiel&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;beispiel&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#beispiel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Aufgabenstellung Weißwurstfrühstück:&lt;/strong&gt;
+&lt;em&gt;Am Schuljahresende ist in Ihrer Klasse ein Weißwurstfrühstück angesagt:
+Zunächst werden in Ihrer Klasse die Aufgaben verteilt. Um noch vor 11 Uhr die Weißwürste vertilgen zu können, werden 4 Gruppen gebildet, die gleichzeitig loslegen. Gruppe 1 kümmert sich in der Küche um das Erhitzen des Wassers. Gruppe 2 besorgt beim Metzger Weißwürste, während Gruppe 3 sich um die Brezen kümmert. Wenn das Wasser erhitzt ist und die Weißwürste besorgt wurden, kann mit dem Kochen der Weißwürste begonnen werden. Gruppe 4 ist für alle weiteren Besorgungen zuständig. (Senf, Weißbier, Servietten, etc.). Sie geht dabei folgendermaßen vor: Zunächst sucht sie einen Supermarkt und kauft schließlich dort ein. Hat sie alle Zutaten bekommen, kehrt sie zur Schule zurück, ansonsten sucht sie solange einen weiteren Supermarkt und kauft dort ein bis alle Besorgungen erledigt sind. Nachdem alle Gruppen mit Ihren Aufgaben fertig sind, beginnt das Weißwurstfrühstück.
+Modelliere den obigen Prozess mittels eines UML-Aktivitätsdiagramms ohne Schwimmbahnen!&lt;/em&gt;
+![[UML-Aktivitätsdiagramm-Beispiel.png]]&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/uml/uml-anwendungsfalldiagramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/uml/uml-anwendungsfalldiagramm/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#Diagramm
+Definition: Das &lt;a href=&#34;https://de.wikipedia.org/wiki/Anwendungsfall_%28UML%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UML Anwendungsfalldiagramm&lt;/a&gt; (auch Use Case Diagramm genannt) ist ein Modellelement in der [[UML]] und beschreibt die Zusammenhänge zwischen einer Menge von Anwendungsfällen und den daran beteiligten Akteuren. Dabei stellt dieses das externe Verhalten des Systems in einer bestimmten Situation dar. Ein Anwendungsfall beschreibt, &lt;u&gt;was&lt;/u&gt; das System leisten muss, aber &lt;u&gt;nicht wie&lt;/u&gt; es das leisten soll.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;table-of-contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#table-of-contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[[#Schema|Schema]]
+&lt;ul&gt;
+&lt;li&gt;[[#Schema#Akteur|Akteur]]&lt;/li&gt;
+&lt;li&gt;[[#Schema#System|System]]&lt;/li&gt;
+&lt;li&gt;[[#Schema#Assoziation|Assoziation]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[[#Beziehungen|Beziehungen]]
+&lt;ul&gt;
+&lt;li&gt;[[#Beziehungen#Include|Include]]&lt;/li&gt;
+&lt;li&gt;[[#Beziehungen#Extend|Extend]]&lt;/li&gt;
+&lt;li&gt;[[#Beziehungen#Generalisierung|Generalisierung]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[[#Beispiel|Beispiel]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Schema&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;schema&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#schema&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;![[UML-Anwendungsfalldiagramm-Schema.png]]&lt;/p&gt;
+&lt;h4&gt;Akteur&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;akteur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#akteur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;menschliche Akteure&lt;/p&gt;
+&lt;h4&gt;System&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;system&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#system&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;nicht menschliche Akteure / Systeme&lt;/p&gt;
+&lt;h4&gt;Assoziation&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;assoziation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#assoziation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Akteure besitzen Assoziationen zu Anwendungsfällen, wenn sie an den dort beschriebenen
+Abläufen aktiv oder passiv beteiligt sind.&lt;/p&gt;
+&lt;h3&gt;Beziehungen&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;beziehungen&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#beziehungen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Zwischen den Anwendungsfällen kann es folgende 3 verschiedene Arten von Beziehungen geben, die durch die Beschriftung und die verschiedene Pfeilarten unterschieden werden.&lt;/p&gt;
+&lt;h4&gt;Include&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;include&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#include&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Durch die include-Beziehung wird dargestellt, dass innerhalb eines Anwendungsfalls 1 ein
+anderer Anwendungsfall 2 vorkommt. Der Anwendungsfall 2 wird &lt;u&gt;immer&lt;/u&gt; ausgeführt, wenn der erste Anwendungsfall eintritt. Eine include-Beziehung wird mit &lt;code&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/code&gt; angegeben. Bei include-Beziehung &lt;u&gt;zeigt&lt;/u&gt; die Pfeilspitze immer &lt;u&gt;auf den Anwendungsfall, um welchen der eigentliche Anwendungsfall erweitert wird.&lt;/u&gt;&lt;/p&gt;
+&lt;h4&gt;Extend&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;extend&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#extend&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Durch die extend-Beziehung wird dargestellt, dass innerhalb eines Anwendungsfalls 1 ein
+anderer Anwendungsfall 2 vorkommt. Der Anwendungsfall 2 wird &lt;u&gt;unter bestimmten Umständen&lt;/u&gt; ausgeführt, wenn der erste Anwendungsfall eintritt. Dieser Umstand (Bedingung) wird als Notiz an die extend-Beziehung angehängt. Diese Beziehung eignet sich, zur Darstellung von optionalem Verhalten. Eine exclude-Beziehung wird mit &lt;code&gt;&amp;lt;&amp;lt;exclude&amp;gt;&amp;gt;&lt;/code&gt; angegeben, sowie mit der Bedingung. Die Pfeilspitze von extend-Beziehung &lt;u&gt;zeigt&lt;/u&gt; immer &lt;u&gt;auf den Anwendungsfall, um welchen beim Eintreten der Bedingung erweitert werden kann.&lt;/u&gt;&lt;/p&gt;
+&lt;h4&gt;Generalisierung&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;generalisierung&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#generalisierung&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Durch die Generalisierung werden Spezialfälle A und B Verhalten und Bedeutung vom
+Anwendungsfall 1 erben. Damit ist Anwendungsfall 1 eine Verallgemeinerung der Spezialfälle. Die Generalisierung ist die einzige Beziehung, welche zwischen Akteuren auftritt.&lt;/p&gt;
+&lt;h3&gt;Beispiel&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;beispiel&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#beispiel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Aufgabestellung Terminvergabe:&lt;/strong&gt;
+&lt;em&gt;Sie arbeiten im Projekt zur Entwicklung einer Software zur Terminvergabe in Arztpraxen mit.&lt;/em&gt;
+&lt;em&gt;Bei der Analyse ergeben sich folgende Anforderungen:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Mit dem Buchungssystem können Patienten und Angestellte der Ärzte arbeiten.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Für das Buchungssystem ist ein vorheriger Login erforderlich.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Patienten können Termine anfragen.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Patienten können bei Bedarf aus einer Liste eine spezielle Terminart auswählen.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ein Angestellter muss eine Terminanfrage abschließen (bestätigen oder absagen).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Hierzu muss dieser sich zuerst eine Liste aller Terminanfragen anzeigen lassen.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Bei dem Abschließen der Terminanfrage muss der Angestellte, wenn eine spezielle&lt;/em&gt;
+&lt;em&gt;Terminart ausgewählt wurde, die Ressourcen planen.&lt;/em&gt;
+&lt;em&gt;Erstellen Sie ein Anwendungsfalldiagramm anhand der beschriebenen Anforderungen.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;![[UML-Anwendungsfalldiagramm-Beispiel.png]]&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/uml/uml-klassendiagramm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/uml/uml-klassendiagramm/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#Diagramm
+Definition: Das &lt;a href=&#34;https://de.wikipedia.org/wiki/Klassendiagramm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UML Klassendiagramm&lt;/a&gt; ist ein Strukturdiagramm der [[UML]] und dient zur grafischen Darstellung von von &lt;a href=&#34;https://de.wikipedia.org/wiki/Klasse_%28Objektorientierung%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Klassen&lt;/a&gt; sowie deren Beziehungen.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;table-of-contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#table-of-contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[[#Schema|Schema]]
+&lt;ul&gt;
+&lt;li&gt;[[#Schema#Klassenname|Klassenname]]&lt;/li&gt;
+&lt;li&gt;[[#Schema#Variablenname|Variablenname]]&lt;/li&gt;
+&lt;li&gt;[[#Schema#Variablentyp|Variablentyp]]&lt;/li&gt;
+&lt;li&gt;[[#Schema#Sichtbarkeit|Sichtbarkeit]]&lt;/li&gt;
+&lt;li&gt;[[#Schema#Konstruktor|Konstruktor]]&lt;/li&gt;
+&lt;li&gt;[[#Schema#Attribute|Attribute]]&lt;/li&gt;
+&lt;li&gt;[[#Schema#Methoden|Methoden]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[[#Vererbung|Vererbung]]
+&lt;ul&gt;
+&lt;li&gt;[[#Vererbung#protected ( )|protected (#)]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Schema&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;schema&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#schema&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;![[UML-Klassendiagramm-Schema.png]]&lt;/p&gt;
+&lt;h4&gt;Klassenname&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;klassenname&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#klassenname&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Der Klassenname ist der Name, welchen diese Klasse im Programm erhalten soll. In Java sollten Klassen immer mit einem Großbuchstaben beginnen.&lt;/p&gt;
+&lt;p&gt;Beispiel zu obigem Schema:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Java&#34; data-lang=&#34;Java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;public&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;nc&#34;&gt;Auto&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Variablenname&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;variablenname&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#variablenname&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Der Variablenname ist der Name, welchen diese Variable im Programm erhalten soll. In Java sollten Variablen immer mit einem Kleinbuchstaben beginnen.&lt;/p&gt;
+&lt;h4&gt;Variablentyp&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;variablentyp&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#variablentyp&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Der Variablenname ist der Typ, von welchem diese Variable ist.&lt;/p&gt;
+&lt;h4&gt;Sichtbarkeit&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;sichtbarkeit&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#sichtbarkeit&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Die Sichtbarkeit beschreibt die Sichtbarkeit von Variablen und Methoden. Dabei steht ein &lt;code&gt;+&lt;/code&gt;, &lt;code&gt;-&lt;/code&gt; oder &lt;code&gt;#&lt;/code&gt; für die Sichtbarkeiten &lt;em&gt;public, private und protected&lt;/em&gt;.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;UML Sichtbarkeit&lt;/th&gt;
+          &lt;th&gt;Java Sichtbarkeit&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;+&lt;/td&gt;
+          &lt;td&gt;public&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td&gt;private&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;#&lt;/td&gt;
+          &lt;td&gt;[[UML Klassendiagramm#protected ( )|protected]]&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;Konstruktor&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;konstruktor&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#konstruktor&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Der Konstruktor ist eine spezielle Methode, welche zur Bildung der Klasse dient. Dieser muss immer genau &lt;u&gt;den Namen der Klasse&lt;/u&gt; haben. Ein Konstruktor ist immer &lt;code&gt;public&lt;/code&gt; und hat keinen Rückgabewert (auch nicht void). Mehrere Konstruktoren sind ebenfalls möglich.&lt;/p&gt;
+&lt;p&gt;Beispiel zu obigem Schema:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Java&#34; data-lang=&#34;Java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;public&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;Auto&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;	&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;kmStand&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;	&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;out&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Ein neues Auto&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Attribute&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;attribute&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#attribute&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Die Attribute sind alle Variablen, welche im oberen Teil des UML Klassendiagramms genannt werden. Diese Attribute haben meist die [[UML Klassendiagramm#Sichtbarkeit|Sichtbarkeit]] &lt;code&gt;private&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Beispiel zu obigem Schema:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Java&#34; data-lang=&#34;Java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;private&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;String&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;marke&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;private&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;double&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;kmStand&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4&gt;Methoden&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;methoden&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#methoden&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Die Methoden sind alle Einträge, welche im unteren Teil des UML Klassendiagramms genannt werden, sowie der [[UML Klassendiagramm#Konstruktor|Konstruktor]].&lt;/p&gt;
+&lt;h3&gt;Vererbung&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vererbung&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vererbung&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Durch das Konzept der Vererbung ist es möglich, Attribute und Methoden einer Oberklasse (auch Superklasse oder Basisklasse genannt), an mehrere, speziellere Unterklassen zu vererben. Die Unterklassen (auch Subklassen genannt) besitzen dann automatisch alle Attribute und Methoden der Oberklasse, die nicht auf &lt;code&gt;private&lt;/code&gt; gesetzt sind. Im UML-Klassendiagramm wird die Vererbungsbeziehung (auch is-a-Beziehung genannt) durch einen Pfeil mit nicht ausgefüllter Spitze dargestellt, der von der Unter- zur Oberklasse zeigt.&lt;/p&gt;
+&lt;h4&gt;protected (#)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;protected-&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#protected-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Die [[UML Klassendiagramm#Sichtbarkeit|Sichtbarkeit]] protected (gekennzeichnet durch &lt;code&gt;#&lt;/code&gt;) bewirkt, dass Attribute oder Methoden sowohl in der definierenden Klasse selbst als auch in all ihren Unterklassen sichtbar sind. Alle anderen Klassen können nicht auf sie zugreifen. Bei &lt;code&gt;public&lt;/code&gt; könnten stattdessen alle Klassen auf diese zugreifen und bei &lt;code&gt;private&lt;/code&gt; nur die definierende Klasse.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

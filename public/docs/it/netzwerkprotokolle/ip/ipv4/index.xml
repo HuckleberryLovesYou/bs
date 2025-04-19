@@ -1,0 +1,84 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation – IPv4</title>
+    <link>//localhost:1313/docs/it/netzwerkprotokolle/ip/ipv4/</link>
+    <description>Recent content in IPv4 on Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/it/netzwerkprotokolle/ip/ipv4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/ip/ipv4/ipv4-netzklassen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/ip/ipv4/ipv4-netzklassen/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Die &lt;a href=&#34;https://de.wikipedia.org/wiki/Netzklasse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPv4 Netzklassen&lt;/a&gt; beschreiben die Anzahl der Netzwerkbits in bestimmten Bereichen des ersten Oktetts. Diese unterschiedliche Anzahl wird in Klassen kategorisiert, welche von A beginnend bis E fortlaufen.&lt;/p&gt;
+&lt;p&gt;![[IPv4-Netzklassen.png]]&lt;/p&gt;
+&lt;h4&gt;Klasse A&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;klasse-a&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#klasse-a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Diese Klasse bietet den größten Hostbereich von allen, mit einer Anzahl von 16,8Mio. Hosts je Netzwerk. Von diesen Netzwerken gibt es nur 128 Stück und diese wurden an große Unternehmen verteilt. Ein Beispiel hierfür ist &lt;a href=&#34;https://en.wikipedia.org/wiki/APNIC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;APNIC&lt;/a&gt; mit 1.0.0.0/8 oder &lt;a href=&#34;https://en.wikipedia.org/wiki/AT%26T&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AT&amp;amp;T Services&lt;/a&gt; mit 12.0.0.0/8, sowie US-Institutionen, wie das &lt;a href=&#34;https://en.wikipedia.org/wiki/United_States_Department_of_Defense&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DoD&lt;/a&gt; Intel Information Systems. Der [[_IPv4#Öffentliche und private IP-Adressen|private Bereich]] in dieser Netzwerkklasse ist 10.0.0.0/8&lt;/p&gt;
+&lt;h4&gt;Klasse B&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;klasse-b&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#klasse-b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Diese Klasse bietet eine höhere Verfügbarkeit aufgrund der hohen Anzahl an Netzwerken, währenddessen der Bereich für Hosts je Netzwerk ebenfalls beachtlich ist. Der private Bereich in dieser Netzwerkklasse ist 172.16.0.0/12.&lt;/p&gt;
+&lt;h4&gt;Klasse C&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;klasse-c&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#klasse-c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Diese Klasse bietet eine sehr hohe Verfügbarkeit aufgrund der hohen Anzahl an Netzwerken, währenddessen der Bereich für Hosts je Netzwerk gering ist. Der private Bereich in dieser Netzwerkklasse ist 192.168.0.0/16. In diesem Bereich befinden sich meist die Standardbereiche großer Routerhersteller, wie zum Beispiel einer aktuellen &lt;a href=&#34;https://avm.de/produkte/fritzbox/fritzbox-5530-fiber/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fritz!Box&lt;/a&gt;, mit 192.168.178.0/24.&lt;/p&gt;
+&lt;h4&gt;Klasse D&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;klasse-d&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#klasse-d&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Diese Klasse ermöglicht die gleichzeitige Datenübertragung an mehrere Empfänger durch [[Übertragungsarten#Multicast|Multicast]] und wird hauptsächlich für Streaming und Gruppenkommunikation genutzt.&lt;/p&gt;
+&lt;h4&gt;Klasse E&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;klasse-e&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#klasse-e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Diese Klasse ist für experimentelle Zwecke reserviert und ist daher nicht für den öffentlichen Einsatz vorgesehen.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/ip/ipv4/ipv4-subnetting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/ip/ipv4/ipv4-subnetting/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#TODO
+Definition: &lt;a href=&#34;https://de.wikipedia.org/wiki/Netzmaske#IPv4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPv4 Subnetting&lt;/a&gt; beschreibt den Vorgang der Verkleinerung eines größeren [[_IPv4]] Netzwerkes in ein Netzwerk oder mehrere kleinere Netzwerke mittels einer Änderung der [[IPv4 Subnetzmaske|Subnetzmaske]].&lt;/p&gt;
+&lt;h3&gt;Gründe für Subnetting&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;gründe-für-subnetting&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gr%c3%bcnde-f%c3%bcr-subnetting&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Segment_%28Netzwerk%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netzwerksegmentierung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Broadcast-Sturm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Broadcast-Storm&lt;/a&gt; Protection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Subnetting&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;subnetting&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#subnetting&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Netzklassen&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;netzklassen&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#netzklassen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Als erstes muss die [[IPv4 Netzklassen]] des Netzwerkes festgestellt werden. Dadurch lässt sich die herausfinden, in welchem Oktett das Subnetting stattfindet.&lt;/p&gt;
+&lt;h4&gt;Host- und Netzanteil&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;host--und-netzanteil&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#host--und-netzanteil&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Hostanteil:
+Dieser beschreibt den Binär-Bereich des IP-Netzwerkes, in&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/ip/ipv4/ipv4-subnetzmaske/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/ip/ipv4/ipv4-subnetzmaske/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#TODO
+Definition: Die &lt;a href=&#34;https://de.wikipedia.org/wiki/Netzmaske#IPv4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPv4 Subnetzmaske&lt;/a&gt; beschreibt&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

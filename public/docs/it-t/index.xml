@@ -1,0 +1,242 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation – IT-T</title>
+    <link>//localhost:1313/docs/it-t/</link>
+    <description>Recent content in IT-T on Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/it-t/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it-t/kritischer-pfad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it-t/kritischer-pfad/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Der &lt;a href=&#34;https://de.wikipedia.org/wiki/Methode_des_kritischen_Pfades&#34; title=&#34;Methode des kritischen Pfades&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;kritische Pfad&lt;/em&gt;&lt;/a&gt; (auch kritischer Weg genannt) ist die Kette der Vorgänge, bei deren zeitlicher Änderung sich der Endtermin eines Projektes verschiebt. Er wird durch eine Kette von Einzel-Aktivitäten bestimmt, deren Summe aller Pufferzeiten Null ist. Alle anderen Aktivitäten können im Rahmen ihrer Pufferzeit zeitlich verschoben oder verlängert werden, ohne die Gesamtprojektdauer zu verändern.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it-t/marktsegmentierung-und-zielgruppen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it-t/marktsegmentierung-und-zielgruppen/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Aufteilung des Marktes in kleiner Teilgebiete/Teilgruppen. Dies ermöglich individuelle Gestaltung des Produktes oder der Kommunikationsstrategie. Es werden hierfür verschiedene Kriterien verwendet werden.&lt;/p&gt;
+&lt;h3&gt;Übliche Kriterien&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;übliche-kriterien&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c3%bcbliche-kriterien&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Demografisch
+&lt;ul&gt;
+&lt;li&gt;Alter, Geschlecht&lt;/li&gt;
+&lt;li&gt;Einkommen&lt;/li&gt;
+&lt;li&gt;Bildung&lt;/li&gt;
+&lt;li&gt;Haushaltsgröße&lt;/li&gt;
+&lt;li&gt;Religion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Geografisch
+&lt;ul&gt;
+&lt;li&gt;basierend auf Wohnort (Land/Stadt)&lt;/li&gt;
+&lt;li&gt;Region&lt;/li&gt;
+&lt;li&gt;Tradition&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Psychografisch
+&lt;ul&gt;
+&lt;li&gt;Lebensstil&lt;/li&gt;
+&lt;li&gt;Persönlichkeit&lt;/li&gt;
+&lt;li&gt;Aktivitäten&lt;/li&gt;
+&lt;li&gt;Wertvorstellungen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Verhaltensbasiert
+&lt;ul&gt;
+&lt;li&gt;Preisverhalten&lt;/li&gt;
+&lt;li&gt;Mediennutzung&lt;/li&gt;
+&lt;li&gt;Einkaufsstättenwahl&lt;/li&gt;
+&lt;li&gt;Markenwahl&lt;/li&gt;
+&lt;li&gt;Kaufvolumen&lt;/li&gt;
+&lt;li&gt;Treue&lt;/li&gt;
+&lt;li&gt;Gewohnheiten&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it-t/netzplan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it-t/netzplan/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#Diagramm #TODO
+Definition: Der &lt;a href=&#34;https://de.wikipedia.org/wiki/Netzplantechnik&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netzplan&lt;/a&gt; ist die grafische Abbildung von Vorgangsketten. Jede Aktivität kann mehrere Vorgänger und mehrere Nachfolger haben. Es ist dadurch ebenfalls der [[Kritischer Pfad|kritische Pfad]] erkennbar. Meist ist sind die Zeiten in ganzen Tagen angegeben.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;table-of-contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#table-of-contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[[#Schema|Schema]]&lt;/li&gt;
+&lt;li&gt;[[#Vorgang|Vorgang]]&lt;/li&gt;
+&lt;li&gt;[[#Gesamtpuffer|Gesamtpuffer]]&lt;/li&gt;
+&lt;li&gt;[[#Dauer|Dauer]]
+&lt;ul&gt;
+&lt;li&gt;[[#Dauer#Zeitpunkte|Zeitpunkte]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[[#Bearbeitung|Bearbeitung]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Schema&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;schema&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#schema&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;![[Netzplan-Schema.png]]&lt;/p&gt;
+&lt;h3&gt;Vorgang&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vorgang&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vorgang&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Der Vorgang ist eine definierte Aktivität, welche meist mit der [[Netzplan#Dauer|Dauer]] jenes Vorgangs angegeben ist.&lt;/p&gt;
+&lt;h3&gt;Gesamtpuffer&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;gesamtpuffer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gesamtpuffer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Das ist der gesamte Puffer, ist die Zeitspanne, um die ein Vorgang gegenüber seiner geplanten Dauer verschoben werden kann, unter Einhaltung des geplanten Projektendes.&lt;/p&gt;
+&lt;h3&gt;Dauer&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;dauer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#dauer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Die Dauer ist die Länge der Zeit, welche ein [[Netzplan#Vorgang|Vorgang]] beansprucht.&lt;/p&gt;
+&lt;h4&gt;Zeitpunkte&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;zeitpunkte&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#zeitpunkte&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;In einem Netzplan gibt es folgende Zeitpunkte:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Frühester Anfangszeitpunkt&lt;/li&gt;
+&lt;li&gt;Spätester Anfangszeitpunkt&lt;/li&gt;
+&lt;li&gt;Frühester Endzeitpunkt&lt;/li&gt;
+&lt;li&gt;Spätester Endzeitpunkt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bearbeitung&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;bearbeitung&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bearbeitung&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Aufzeichnung der logischen Abfolge der Vorgänge nach Angabe&lt;/li&gt;
+&lt;li&gt;Vorwärtskalkulation (bei einer Zusammenführung immer mit der höchsten Anzahl an Tagen weiter rechnen)&lt;/li&gt;
+&lt;li&gt;Rückwärtskalkulation (bei einer Zusammenführung immer mit der niedrigsten Anzahl an Tagen weiter rechnen)&lt;/li&gt;
+&lt;li&gt;Gesamtpuffer auswerten (Differenz aus SEZ und SAZ oder SAZ und FAZ)&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it-t/vertriebsformen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it-t/vertriebsformen/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Der Vertrieb&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;der-vertrieb&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#der-vertrieb&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Aufgaben des Vertriebs ([[Beschaffungsprozess]]):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bepreisung von Produkten&lt;/li&gt;
+&lt;li&gt;Produkte bewerben&lt;/li&gt;
+&lt;li&gt;Kundenberatung&lt;/li&gt;
+&lt;li&gt;Einkauf von Ware&lt;/li&gt;
+&lt;li&gt;Identifizierung potenzieller Kunden &amp;amp; Kontaktaufnahme&lt;/li&gt;
+&lt;li&gt;Betreuung der Kunden nach dem Kauf
+-&amp;gt; Pflege von langfristigen Kundenbeziehungen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Vertriebsformen&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vertriebsformen&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vertriebsformen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;Vorteile dieser Vertriebsform durch &amp;lsquo;+&amp;rsquo; gekennzeichnet.&lt;/em&gt;
+&lt;em&gt;Nachteile dieser Vertriebsform durch &amp;lsquo;-&amp;rsquo; gekennzeichnet.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Direktvertrieb (Verkauf direkt an Kunden)
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Direkter Kontakt, schnellere Kundenbindung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Hohe Kosten, begrenzter Kundenkreis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Indirekter Vertrieb (Verkauf über Dritte&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;)
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Größere Reichweite, reduzierte direkte Kosten&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Weniger Kontrolle, verzerrte Markenbotschaft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Netzwerk-Marketing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Strukturvertrieb&lt;/a&gt; (Empfehlungsmarketing)
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Motivation durch Boni, schnelle Umsatzsteigerung&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Fokus auf kurzfristige Gewinne, hohe Fluktuation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Virales_Marketing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Virales Marketing&lt;/a&gt; (via Social Media)
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Weite Verbreitung, kostengünstig&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Wenig Kontrolle, schwierige Messung des Erfolgs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Online-Vertrieb (Verkauf übers Internet)
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Globale Reichweite, niedrige Betriebskosten, 24/7 Verfügbarkeit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Starke Konkurrenz, Sicherheitsbedenken, fehlender persönlicher Kontakt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;, wie beispielsweise Händler oder Wiederverkäufer&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

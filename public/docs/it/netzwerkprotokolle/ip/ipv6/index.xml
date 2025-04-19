@@ -1,0 +1,66 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation – IPv6</title>
+    <link>//localhost:1313/docs/it/netzwerkprotokolle/ip/ipv6/</link>
+    <description>Recent content in IPv6 on Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/it/netzwerkprotokolle/ip/ipv6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/ip/ipv6/ipv6-adresstypen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/ip/ipv6/ipv6-adresstypen/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#factscheck #TODO&lt;/p&gt;
+&lt;h3&gt;Global Unicast Address (GUA)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;global-unicast-address-gua&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#global-unicast-address-gua&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Von IANA an &lt;a href=&#34;https://de.wikipedia.org/wiki/Regional_Internet_Registry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Regional Internet Registry (RIR)&lt;/a&gt; vergebene Netze&lt;/li&gt;
+&lt;li&gt;Adresse wird geroutet&lt;/li&gt;
+&lt;li&gt;Adresse, die der Router vom ISP erhält&lt;/li&gt;
+&lt;li&gt;Range: 2000:: bis 3FFF::&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Link Local Unicast Address (LLA)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;link-local-unicast-address-lla&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#link-local-unicast-address-lla&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Wird nicht geroutet&lt;/li&gt;
+&lt;li&gt;Jedes Gerät gibt sich diese Adresse eigenständig&lt;/li&gt;
+&lt;li&gt;Jedes IPv6 fähige Gerät muss eine Link Local Unicast Address besitzen&lt;/li&gt;
+&lt;li&gt;Typischerweise nutzen Hosts die Link-Local Unicast Adresse des Routers in Routing-Tabellen als Default Gateway.&lt;/li&gt;
+&lt;li&gt;Range: fe80:: bis febf::&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Loopback-Address&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;loopback-address&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#loopback-address&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Vergleichbar mit Loopback (127.0.0.1) bei [[_IPv4|IPv4]]&lt;/li&gt;
+&lt;li&gt;Wird zum Testen oder Diagnose auf lokalem Gerät verwendet&lt;/li&gt;
+&lt;li&gt;Gerät sendet Traffic zurück an sich selbst&lt;/li&gt;
+&lt;li&gt;Range: ::1/128&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unspecified Address&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;unspecified-address&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#unspecified-address&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Zeigt an, dass keine gültigen IPv6 Adresse vergeben wurde&lt;/li&gt;
+&lt;li&gt;Verwendet als Quell Adresse während der Erstkommunikation (z.B.: Adresskonfiguration)&lt;/li&gt;
+&lt;li&gt;Range = ::/128&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unique Local Unicast&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;unique-local-unicast&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#unique-local-unicast&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Verwendet für private lokale Kommunikation innerhalb des privaten Netzes&lt;/li&gt;
+&lt;li&gt;Wird nicht geroutet&lt;/li&gt;
+&lt;li&gt;Range: fc00:: bis fd00::&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

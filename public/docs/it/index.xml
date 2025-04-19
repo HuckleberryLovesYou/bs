@@ -1,0 +1,583 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation – IT</title>
+    <link>//localhost:1313/docs/it/</link>
+    <description>Recent content in IT on Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/it/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/arten-von-schadsoftware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/arten-von-schadsoftware/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Der Begriff &lt;a href=&#34;https://de.wikipedia.org/wiki/Schadprogramm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Schadsoftware oder Malware&lt;/a&gt; beschreibt Programme, welche entwickelt worden sind, um Schaden anzurichten. Dabei wird meist von &amp;lsquo;Viren&amp;rsquo; gesprochen, jedoch sind Schadsoftware in mehrere Arten unterteilt. Weiter ist oft die Rede von &amp;lsquo;Virenschutz&amp;rsquo;, wobei meist vor allen Arten von Schadsoftware versucht wird zu schützen. Heutzutage reicht ein reiner &amp;lsquo;Virenschutz&amp;rsquo; nicht aus und stattdessen wird heutzutage eine &amp;lsquo;Endpoint Protection&amp;rsquo; verwendet.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Schadprogramm#Trojanische_Pferde&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trojaner&lt;/a&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Schadprogramm#Computerviren&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Virus&lt;/a&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Schadprogramm#Computerw%C3%BCrmer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wurm&lt;/a&gt;&lt;/th&gt;
+          &lt;th&gt;Phishing&lt;/th&gt;
+          &lt;th&gt;Ransomware&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Beschreibung&lt;/td&gt;
+          &lt;td&gt;Bösartige Anwendung, die sich&lt;br&gt;als jemand Anderes ausgibt&lt;br&gt;und ein System von innen angreift&lt;/td&gt;
+          &lt;td&gt;Bösartige Anwendung&lt;/td&gt;
+          &lt;td&gt;Bösartige Anwendung&lt;/td&gt;
+          &lt;td&gt;Betrugsverfahren&lt;/td&gt;
+          &lt;td&gt;Bösartige&lt;br&gt;Verschlüsselungssoftware&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ziele&lt;/td&gt;
+          &lt;td&gt;Öffnung einer Hintertür&lt;/td&gt;
+          &lt;td&gt;Zerstörung von Daten und Veränderung des Algorightmus&lt;/td&gt;
+          &lt;td&gt;Lahmlegen von Netzwerken&lt;br&gt;und Selbstverbereitung&lt;/td&gt;
+          &lt;td&gt;Datendiebstahl&lt;br&gt;-&amp;gt; Geld&lt;/td&gt;
+          &lt;td&gt;Erpressung&lt;br&gt;-&amp;gt; Geld&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Infektion&lt;/td&gt;
+          &lt;td&gt;Tarnung als gutartige Software&lt;/td&gt;
+          &lt;td&gt;Download&lt;/td&gt;
+          &lt;td&gt;Download&lt;/td&gt;
+          &lt;td&gt;Download&lt;/td&gt;
+          &lt;td&gt;Download&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Beispiel&lt;/td&gt;
+          &lt;td&gt;PC Cleaner&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://doubleoctopus.com/security-wiki/threats-and-tools/meterpreter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MeterPreter&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Stuxnet&lt;/td&gt;
+          &lt;td&gt;Fake Banken&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/WannaCry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WannaCry&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/datenbanksystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/datenbanksystem/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#TODO&lt;/p&gt;
+&lt;h3&gt;Schema&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;schema&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#schema&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;![[Datenbanksystem-Schema.png]]&lt;/p&gt;
+&lt;h4&gt;Datenbanksysteme (DBS)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;datenbanksysteme-dbs&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#datenbanksysteme-dbs&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;DBS ermöglicht die anwendungsübergreifende Nutzung von Daten.&lt;/li&gt;
+&lt;li&gt;DBS isoliert Anwendungen von Hardware und Betriebssystem&lt;/li&gt;
+&lt;li&gt;DBS = DB + DBMS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Datenbank (DB)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;datenbank-db&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#datenbank-db&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Persistente Speicherung von Daten&lt;/li&gt;
+&lt;li&gt;Zentraler Ansatz (Integrierter Datenbestand)&lt;/li&gt;
+&lt;li&gt;Datendefinition (Datenstruktur, Integritätsregeln) und Zugriff auf die Daten (Operationen) erfolgen nur durch das DBMS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Datenbankmanagementsystem (DBMS)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;datenbankmanagementsystem-dbms&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#datenbankmanagementsystem-dbms&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;DBMS ermöglicht einfache Datendefinition und Zugriff auf die Daten&lt;/li&gt;
+&lt;li&gt;DBMS garantiert Korrektheit der Daten (Einhaltung der Integritätsregeln)&lt;/li&gt;
+&lt;li&gt;DBMS garantiert Korrektheit der Daten im Mehrbenutzerbetrieb (Concurrency Control)&lt;/li&gt;
+&lt;li&gt;DBMS garantiert Datensicherheit z.B.: Korrektheit bei fehlerhaften Abläufen oder Systemabstürzen&lt;/li&gt;
+&lt;li&gt;DBMS bietet Mechanismen zur Zugriffskontrolle (Datenschutz)&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/generationenprinzip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/generationenprinzip/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Das &lt;a href=&#34;https://de.wikipedia.org/wiki/Generationenprinzip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Generationenprinzip&lt;/a&gt; (auch Großvater-Vater-Sohn-Prinzip genannt) ist eine Datensicherungsstrategie. Dabei stellt dieses sicher, dass immer mehrere Sicherungen in verschiedenen zeitlichen Abstufungen vorhanden sind. Dabei ist es nicht an einen speziellen Sicherungstyp (vollständig, differenziell, inkrementell) gebunden.&lt;/p&gt;
+&lt;h3&gt;Beispiel&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;beispiel&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#beispiel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;An jedem Arbeitstag wird ein Backup erstellt. Dies ist das Sohn-Backup.&lt;/li&gt;
+&lt;li&gt;Jede Woche wird ein Backup erstellt. Dies ist das Vater-Backup.&lt;/li&gt;
+&lt;li&gt;Jeden Monat wird ein Backup erstellt. Dies ist das Großvater-Backup.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/protocol-data-unit-pdu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/protocol-data-unit-pdu/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#TODO add every PDU with description
+Definition: Das &lt;a href=&#34;https://en.wikipedia.org/wiki/Protocol_data_unit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Protocol data unit&lt;/a&gt; (PDU) ist ein Konzept. Dabei fügt jede Schicht von Schicht 4 beginnend, zu den auf Schicht 7 - 5 generierten sogenannten Nutzdaten, eigene Verwaltungsinformationen hinzu. Dieser Prozess wird auch Kapselung genannt. Der Datensatz erhält nach jeder Kapselung mit den Verwaltungsinformationen der entsprechenden Schicht den Namen (also das PDU), welcher in diesem spezifiziert ist.&lt;/p&gt;
+&lt;h3&gt;Mögliche PDUs&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mögliche-pdus&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#m%c3%b6gliche-pdus&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;u&gt;UDP-Datagram/TCP-Segment&lt;/u&gt; nach Kapselung des Datensatzes auf Schicht 4&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;Paket&lt;/u&gt; nach Kapselung des Datensatzes auf Schicht 3&lt;/li&gt;
+&lt;li&gt;&lt;u&gt;Frame&lt;/u&gt; nach Kapselung des Datensatzes auf Schicht 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Verwendung von PDUs&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;verwendung-von-pdus&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#verwendung-von-pdus&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Durch die Verwendung der korrekten PDUs kann sofort auf die Schicht Rückschlüsse gezogen werden, auf welcher sich dieser Datensatz befindet. Somit ist sofort klar, dass ein Datensatz auf Schicht 3 gemeint ist, wenn als PDU Paket genannt worden ist.&lt;/p&gt;
+&lt;h3&gt;PDU Visualisierung&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pdu-visualisierung&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pdu-visualisierung&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Dies visualisiert ein vereinfachtes PDU. Dieses enthält nur die wichtigsten Verwaltungsinformationen in der Kapselung jeder Schicht.
+![[PDU.svg]]&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/technische-und-organisatorische-ma%C3%9Fnahmen-toms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/technische-und-organisatorische-ma%C3%9Fnahmen-toms/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#TODO&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;TOM&lt;/th&gt;
+          &lt;th&gt;Ziel&lt;/th&gt;
+          &lt;th&gt;Beispiele für eine TOM&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Zutrittskontrolle&#34; title=&#34;Zutrittskontrolle&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zutrittskontrolle&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Verhindern, dass Unbefugte Zutritt zu den Datenverarbeitungsanlagen haben.&lt;/td&gt;
+          &lt;td&gt;Alarmanlage&lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Pf%C3%B6rtner&#34; title=&#34;Pförtner&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pförtner&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Zugangskontrolle_%5c%28Informatik%5c%29&#34; title=&#34;Zugangskontrolle (Informatik)&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zugangskontrolle&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Verhindern, dass Unbefugte Datenverarbeitungsanlagen nutzen können.&lt;/td&gt;
+          &lt;td&gt;Passwortverfahren  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Verschl%C3%BCsselung&#34; title=&#34;Verschlüsselung&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Verschlüsselung&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Zugriffskontrolle&#34; title=&#34;Zugriffskontrolle&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zugriffskontrolle&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Gewährleisten, dass nur Berechtigte auf Daten zugreifen können und diese nicht unbefugt gelesen, verändert, kopiert oder entfernt werden können.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Berechtigungskonzept&#34; title=&#34;Berechtigungskonzept&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Berechtigungskonzepte&lt;/a&gt;  &lt;br&gt;Protokollierung&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Weitergabekontrolle&lt;/td&gt;
+          &lt;td&gt;Gewährleisten, dass Daten bei der elektronischen Übertragung/Transport nicht unbefugt gelesen, kopiert, verändert oder entfernt werden können.&lt;/td&gt;
+          &lt;td&gt;Verschlüsselung  &lt;br&gt;VPN&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Eingabekontrolle&lt;/td&gt;
+          &lt;td&gt;Gewährleisten, dass nachträglich überprüft werden kann, ob und wer Daten verändert oder entfernt hat.&lt;/td&gt;
+          &lt;td&gt;Protokollierung  &lt;br&gt;Protokollauswertungssysteme&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Auftragskontrolle&lt;/td&gt;
+          &lt;td&gt;Gewährleisten, dass Daten, die im Auftrag verarbeitet werden, nur entsprechend den Anweisungen des Auftraggebers verarbeitet werden können.&lt;/td&gt;
+          &lt;td&gt;Vertragsgestaltung bei &lt;a href=&#34;https://de.wikipedia.org/wiki/Datenverarbeitung_im_Auftrag&#34; title=&#34;Datenverarbeitung im Auftrag&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ADV&lt;/a&gt;  &lt;br&gt;Kontrollen&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Verfügbarkeitskontrolle&lt;/td&gt;
+          &lt;td&gt;Gewährleisten, dass Daten gegen zufällige Zerstörung oder Verlust geschützt sind.&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Datensicherung&#34; title=&#34;Datensicherung&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datensicherung&lt;/a&gt;/Backup  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Firewall&#34; title=&#34;Firewall&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Firewall&lt;/a&gt;/Virenschutz&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Trennungsgebot&lt;/td&gt;
+          &lt;td&gt;Gewährleisten, dass zu unterschiedlichen Zwecken erhobene Daten getrennt verarbeitet werden&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Mandantenf%C3%A4higkeit&#34; title=&#34;Mandantenfähigkeit&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mandanten&lt;/a&gt;  &lt;br&gt;Trennung der Systeme&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/%C3%BCbertragungsarten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/%C3%BCbertragungsarten/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#TODO&lt;/p&gt;
+&lt;h3&gt;Unicast&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;unicast&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#unicast&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;1-zu-1 Kommunikation&lt;/li&gt;
+&lt;li&gt;Ziel ist genau ein Host&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Multicast&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;multicast&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#multicast&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;1-zu-mehrere Kommunikation&lt;/li&gt;
+&lt;li&gt;Ziel ist eine Gruppe z.B.: alle Router&lt;/li&gt;
+&lt;li&gt;[[IPv4 Netzklassen#Klasse D|Öffentlicher IPv4 Multicast Bereich]]: 224.0.0.0 bis 239.255.255.255&lt;/li&gt;
+&lt;li&gt;Öffentliche IPv6 Multicast Bereich: ff00:: bis ffff::&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Broadcast&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;broadcast&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#broadcast&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;1-zu-alle Kommunikation&lt;/li&gt;
+&lt;li&gt;Ziel ist das gesamte Netzwerk&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Anycast&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;anycast&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#anycast&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Unicast-Adresse, die mehrfach vergeben wird&lt;/li&gt;
+&lt;li&gt;Nächstgelegenes Gerät erhält das IP-Paket&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Energie und Leistung</title>
+      <link>//localhost:1313/docs/it/energie-und-leistung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/energie-und-leistung/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: &lt;a href=&#34;https://de.wikipedia.org/wiki/Energie&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Energie&lt;/a&gt; und &lt;a href=&#34;https://de.wikipedia.org/wiki/Leistung_%5c%28Physik%5c%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leistung&lt;/a&gt; beschreibt das Leisten von Arbeit und die in einer Zeitspanne umgesetzte Energie.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;table-of-contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#table-of-contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[[#Grundgrößen|Grundgrößen]]
+&lt;ul&gt;
+&lt;li&gt;[[Energie und Leistung#[ 1]Spannung|Spannung]]&lt;/li&gt;
+&lt;li&gt;[[Energie und Leistung#[ 1]Stromstärke|Stromstärke]]&lt;/li&gt;
+&lt;li&gt;[[Energie und Leistung#[ 1]Leistung|Leistung]]&lt;/li&gt;
+&lt;li&gt;[[Energie und Leistung#[ 1]Wiederstand|Wiederstand]]&lt;/li&gt;
+&lt;li&gt;[[Energie und Leistung#[ 1]Ladung|Ladung]]&lt;/li&gt;
+&lt;li&gt;[[Energie und Leistung#[ 1]Wirkungsgrad|Wirkungsgrad]]&lt;/li&gt;
+&lt;li&gt;[[Energie und Leistung#[ 1]Arbeit/Energie|Arbeit/Energie]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[[#Beispielsaufgaben|Beispielsaufgaben]]
+&lt;ul&gt;
+&lt;li&gt;[[#Beispielsaufgaben#Aufgabe 1|Aufgabe 1]]&lt;/li&gt;
+&lt;li&gt;[[#Beispielsaufgaben#Aufgabe 2|Aufgabe 2]]&lt;/li&gt;
+&lt;li&gt;[[#Beispielsaufgaben#Aufgabe 6|Aufgabe 6]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Grundgrößen&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;grundgrößen&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#grundgr%c3%b6%c3%9fen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;[^1]Spannung&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1spannung&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1spannung&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Definition: Potenzialunterschied zwischen zwei Punkten&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Einheit: V (Volt)&lt;/li&gt;
+&lt;li&gt;Netzspannung in Deutschland: 230V (220-240V)&lt;/li&gt;
+&lt;li&gt;Formelzeichen: U&lt;/li&gt;
+&lt;li&gt;Berechnungsformel: U = R * I&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;[^1]Stromstärke&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1stromstärke&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1stromst%c3%a4rke&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Definition: Elektronen, die durch einen Leiter fließen&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Einheit: A (Ampere)&lt;/li&gt;
+&lt;li&gt;Formelzeichen: I&lt;/li&gt;
+&lt;li&gt;Berechnungsformel: I = U / R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;[^1]Leistung&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1leistung&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1leistung&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Definition: Die in einer Zeitspanne umgesetzte Energie&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Einheit: W (Watt)&lt;/li&gt;
+&lt;li&gt;Formelzeichen: P&lt;/li&gt;
+&lt;li&gt;Berechnungsformel: P = U * I&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;[^1]Wiederstand&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1wiederstand&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1wiederstand&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Definition: Die Hemmung des Stromes in einem Leiter&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Einheit: Ω (Ohm)&lt;/li&gt;
+&lt;li&gt;Formelzeichen: R (Resistance)&lt;/li&gt;
+&lt;li&gt;Berechnungsformel: R = U * I&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;[^1]Ladung&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1ladung&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1ladung&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Einheit: As (Ampere Sekunde)&lt;/li&gt;
+&lt;li&gt;Formelzeichen: Q&lt;/li&gt;
+&lt;li&gt;Berechnungsformel: Q = I * t&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;[^1]&lt;strong&gt;Wirkungsgrad&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1wirkungsgrad&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1wirkungsgrad&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Definition: Das Verhältnis von abgeführter Leistung zu zugeführter Leistung&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Einheit: % (Prozent)&lt;/li&gt;
+&lt;li&gt;Formelzeichen: η&lt;/li&gt;
+&lt;li&gt;Berechnungsformel: η (eta) = P$ab$ / P$zu$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;[^1]Arbeit/Energie&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1arbeitenergie&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1arbeitenergie&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Definition:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Einheit: Ws&lt;/li&gt;
+&lt;li&gt;Formelzeichen: W (Work)&lt;/li&gt;
+&lt;li&gt;Berechnungsformel: W = P * t&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Beispielaufgaben&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;beispielaufgaben&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#beispielaufgaben&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Aufgabe 1&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;aufgabe-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#aufgabe-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Auf einem Drucker sind folgende Werte abgebildet: &lt;code&gt;Betriebsspannung (AC): 110V bis 240V&lt;/code&gt; &lt;code&gt;Druckmodus: / = 1,45 A&lt;/code&gt; &lt;code&gt;Sleep-Modus: / = 2,5 mA&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;a) Berechnen Sie die Leistungsaufnahme während eines Druckvorgangs.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Geg.: U = 230V, I = 1,45A&lt;/em&gt;
+&lt;em&gt;Ges.: P&lt;/em&gt;
+&lt;em&gt;benötigte Formel(n): U * I = P&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;230 * 1,45 = 333,50W&lt;/em&gt;
+&lt;em&gt;A: Während des Druckvorgangs entsteht eine Leistungsaufnahme von 333,5 Watt.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;b) Berechnen Sie den Jahresenergiebedarf im Sleep-Modus (eines Druckers).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Geg.: U = 230V, I = 0,0025&lt;/em&gt;
+&lt;em&gt;Ges.: W/Jahr&lt;/em&gt;
+&lt;em&gt;benötigte Formel(n): U * I = P, P * t = W&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;230V * 0,0025A = 0.575W&lt;/em&gt;
+&lt;em&gt;0,575W * (365 * 24) = 5.037Wh = 5,04kWh/Jahr&lt;/em&gt;
+&lt;em&gt;A: Der Drucker benötigt innerhalb eines Jahres im Sleep-Modus 5,04kWh Energie&lt;/em&gt;&lt;/p&gt;
+&lt;h4&gt;Aufgabe 2&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;aufgabe-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#aufgabe-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Berechnen Sie den Energiebedarf der Monitore (14 * 2) für ein Jahr mit 249 Arbeitstagen (alle anderen Tage werden nicht berücksichtigt): &lt;code&gt;Stromversorgung Eingangsspannung 100 bis 240 VAC&lt;/code&gt; &lt;code&gt;Stromverbrauch (im Betrieb) 19 W&lt;/code&gt; &lt;code&gt;Stromverbrauch (jährlich) 28 kWh&lt;/code&gt; &lt;code&gt;Stromverbrauch (in Standby) 0,23 W&lt;/code&gt; &lt;code&gt;Hinweise zum Stromverbrauch Energieverbrauch von 28 kWh basierend auf dem Stromverbrauch der Einheit bei einem Betrieb von 4 Stunden/Tag an 365 Tagen. Der tatsächliche Energieverbrauch hängt von der Verwendung der Einheit ab. Stromverbrauch (ausgeschaltet) 0,17 W&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;a) für einen Monitor im Standby-Betrieb (16h pro Arbeitstag).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Geg.: P$standby$ = 0,23 W, tArbeitstag = 16h, tArbeitstage = 249d&lt;/em&gt;
+&lt;em&gt;Ges.: W/Jahr&lt;/em&gt;
+&lt;em&gt;benötigte Formel(n): P$standby$ * tArbeitstag * tArbeitstage = W/Jahr&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;0,23W * 16h * 249d = 916,32Wh/Jahr = 0,92kWh/Jahr&lt;/em&gt;
+&lt;em&gt;A: Der Monitor benötigt innerhalb eines Jahres mit 249 Arbeitstagen mit je 16 Stunden standby-Verbrauch 0,92kWh.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;b) für einen Monitor bei betrieblicher Nutzung (8h pro Arbeitstag).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Geg.: P$Betrieb$ = 0,23 W, tArbeitstag = 8h, tArbeitstage = 249d&lt;/em&gt;
+&lt;em&gt;Ges.: W/Jahr&lt;/em&gt;
+&lt;em&gt;benötigte Formel(n): P$Betrieb$ * tArbeitstag * tArbeitstage = W/Jahr&lt;/em&gt;
+&lt;em&gt;19W * 8h * 249d = 37.848Wh/Jahr = 37,85kWh/Jahr&lt;/em&gt;
+&lt;em&gt;A: Der Monitor benötigt innerhalb eines Jahres mit 249 Arbeitstagen mit je 8 Stunden Betrieb-Verbrauch 37,85kWh.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;c) für alle (28) Monitore bei kombinierter Nutzung (a+b) (Gesamtenergiebedarf)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Geg.: Anzahl Montiore = 28, WStandby = 0,92kWh/Jahr, WBetrieb = 37,85kWh/Jahr&lt;/em&gt;
+&lt;em&gt;Ges.: Wgesamt/Jahr&lt;/em&gt;
+&lt;em&gt;benötigte Formel(n): Anzahl Monitore * WStandby * WBetrieb = Whgesamt/Jahr&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;28 * (916,32Wh + 37.848Wh) = 1,085,400Wh/Jahr = 1.085,4kWh/Jahr&lt;/em&gt;&lt;/p&gt;
+&lt;h4&gt;Aufgabe 6&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;aufgabe-6&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#aufgabe-6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Die zehn Netzwerkserver sollen mittels USV abgesichert werden. Die Leistung eines Servernetzteils beträgt dabei im Volllastbetrieb 750 W. Die USV beinhaltet 8 Akkus mit einer Ladungsmenge pro Akku von 200 Ah bei einer Spannung von 12 V.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bei Netzausfall sind die acht Akkus der USV zu 100% geladen.&lt;/li&gt;
+&lt;li&gt;Die Akkus werden vollständig entladen.&lt;/li&gt;
+&lt;li&gt;Verluste sind nicht zu berücksichtigen.&lt;/li&gt;
+&lt;li&gt;Die Berechnung basiert auf Volllastbetrieb.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;a) Ermitteln Sie die an die USV angeschlossene Leistung.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Geg.: Anzahl Server = 10, PNetzteil = 750W&lt;/em&gt;
+&lt;em&gt;Ges.: Pgesamt&lt;/em&gt;
+&lt;em&gt;benötigte Formel(n): Pgesamt = PNetzteil * Anzahl Server&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Pgesamt = 750W * 10 = 7.500W&lt;/em&gt;
+&lt;em&gt;A: Die gesamte Leistung, welche an die USV angeschlossen ist, sind 7.500W.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;b) Ermitteln Sie die gesamte Ladungsmenge (Kapazität) der acht Akkus.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Geg.: Qakku = 200Ah, Anzahl Akkus = 8 Stk.&lt;/em&gt;
+&lt;em&gt;Ges.: Qgesamt&lt;/em&gt;
+&lt;em&gt;benötigte Formel(n): Qgesamt = Qakku * Anzahl Akkus&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Qgesamt = 200Ah * 8Stk. = 1600Ah&lt;/em&gt;
+&lt;em&gt;A: Die gesamte Kapazität der USV mit 8 Akkus beträgt bei 200Ah je Akku, 1.000Ah.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;c) Ermitteln Sie die elektrische Energie, welche die acht Akkus bei einer Spannung von 12 V insgesamt abgeben können.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Geg.: Qgesamt = 1.600Ah, Uakku = 12V&lt;/em&gt;
+&lt;em&gt;Ges.: Wgesamt&lt;/em&gt;
+&lt;em&gt;benötigte Formel(n): W = P * t&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Wgesamt = 1.600Ah * 12V = 19.200Wh = 19,2kWh&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;d) Ermitteln Sie die theoretische Überbrückungszeit der USV in Stunden und Minuten.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Geg.: Pgesamt = 7.500W, Wgesamt = 19.200Wh&lt;/em&gt;
+&lt;em&gt;Ges.: tüberbrückungszeit&lt;/em&gt;
+&lt;em&gt;benötigte Formel(n): tüberbrückungszeit = Wgesamt / Pgesamt&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;19.200Wh / 7.500W = 2,56h = 2h 34m&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;[Refferenz]((&lt;a href=&#34;https://bsffbde-my.sharepoint.com/:b:/g/personal/timmatheis_schueler_bs-ffb_de/Eb7n5ISphIRCnb74v2yuq4QBXKgAydghoFUEo_QtPNo1fg?e=VPFOSj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bsffbde-my.sharepoint.com/:b:/g/personal/timmatheis_schueler_bs-ffb_de/Eb7n5ISphIRCnb74v2yuq4QBXKgAydghoFUEo_QtPNo1fg?e=VPFOSj&lt;/a&gt;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;elektrische &lt;a href=&#34;https://bsffbde-my.sharepoint.com/my?id=%2Fpersonal%2Ftimmatheis%5Fschueler%5Fbs%2Dffb%5Fde%2FDocuments%2FObsidian%2DVault%2FIT%2DT%2FEnergie%20und%20Leistung%2Emd&amp;amp;parent=%2Fpersonal%2Ftimmatheis%5Fschueler%5Fbs%2Dffb%5Fde%2FDocuments%2FObsidian%2DVault%2FIT%2DT#fnref:1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>ISO-OSI Referenzmodell</title>
+      <link>//localhost:1313/docs/it/iso-osi-referenzmodell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/iso-osi-referenzmodell/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Das &lt;a href=&#34;https://de.wikipedia.org/wiki/OSI-Modell&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO/OSI Referenzmodell&lt;/a&gt; (Open Systems Interconnection model) ist ein Model für Netzwerkprotokolle als Schichten und wurde durch die &lt;a href=&#34;https://de.wikipedia.org/wiki/International_Organization_for_Standardization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO&lt;/a&gt; (International Organization for Standardization) als Standard veröffentlicht. Dieses Modell beinhaltet &lt;u&gt;sieben Schichten&lt;/u&gt; und ermöglicht die Einordnung von Netzwerkprotokollen in diese Schichten. Im Bereich der Ausbildung zum Fachinformatiker für Systemintegration werden meist die Schichten 5 - 7 seltener in ihrer Einzelheit benötigt.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;table-of-contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#table-of-contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[[#OSI-Modell|OSI-Modell]]&lt;/li&gt;
+&lt;li&gt;[[#Merksätze für das ISO/OSI-Modell|Merksätze für das ISO/OSI-Modell]]&lt;/li&gt;
+&lt;li&gt;[[#Einordnung in Schichten|Einordnung in Schichten]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;OSI-Modell&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;osi-modell&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#osi-modell&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;OSI-Schicht&lt;/th&gt;
+          &lt;th&gt;OSI-Schicht&lt;/th&gt;
+          &lt;th&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Internetprotokollfamilie#TCP/IP-Referenzmodell&#34; title=&#34;Internetprotokollfamilie&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCP/IP-Referenzmodell&lt;/a&gt;&lt;/th&gt;
+          &lt;th&gt;Protokollbeispiele&lt;/th&gt;
+          &lt;th&gt;[[Protocol data unit (PDU)|PDU]]&lt;/th&gt;
+          &lt;th&gt;Kopplungselemente&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td&gt;[[Schicht 5 - 7 (Layer 5 - 7)#Schicht 7 - Anwendungsschicht (Application layer)|Anwendungsschicht (Application layer)]]&lt;/td&gt;
+          &lt;td&gt;Anwendung&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol&#34; title=&#34;Dynamic Host Configuration Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DHCP&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Domain_Name_System&#34; title=&#34;Domain Name System&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DNS&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/File_Transfer_Protocol&#34; title=&#34;File Transfer Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FTP&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol&#34; title=&#34;Hypertext Transfer Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTTP&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure&#34; title=&#34;Hypertext Transfer Protocol Secure&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTTPS&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol&#34; title=&#34;Lightweight Directory Access Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LDAP&lt;/a&gt;  &lt;br&gt;[[MQTT]]&lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/NetWare_Core_Protocol&#34; title=&#34;NetWare Core Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCP&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Real-Time_Transport_Protocol&#34; title=&#34;Real-Time Transport Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RTP&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol&#34; title=&#34;Simple Mail Transfer Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMTP&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol&#34; title=&#34;Extensible Messaging and Presence Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XMPP&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Nutzdaten&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Gateway_%5c%28Informatik%5c%29&#34; title=&#34;Gateway (Informatik)&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gateway&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Lastverteilung_%5c%28Informatik%5c%29&#34; title=&#34;Lastverteilung (Informatik)&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Content-Switch&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Proxy_%5c%28Rechnernetz%5c%29&#34; title=&#34;Proxy (Rechnernetz)&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proxy&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;[[Schicht 5 - 7 (Layer 5 - 7)#Schicht 6 - Darstellungsschicht (Presentation layer)|Darstellungsschicht (Presentation layer)]]&lt;/td&gt;
+          &lt;td&gt;Anwendung&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Nutzdaten&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;[[Schicht 5 - 7 (Layer 5 - 7)#Schicht 5 - Sitzungsschicht (Session layer)|Sitzungsschicht (Session layer)]]&lt;/td&gt;
+          &lt;td&gt;Anwendung&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Nutzdaten&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;[[Schicht 4 - Transportschicht (Transport layer)|Transportschicht (Transport layer)]]&lt;/td&gt;
+          &lt;td&gt;Transport&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Transmission_Control_Protocol&#34; title=&#34;Transmission Control Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCP&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/User_Datagram_Protocol&#34; title=&#34;User Datagram Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UDP&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Stream_Control_Transmission_Protocol&#34; title=&#34;Stream Control Transmission Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SCTP&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Sequenced_Packet_Exchange&#34; title=&#34;Sequenced Packet Exchange&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPX&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/OSI-Modell#Schicht_4_%e2%80%93_Transportschicht&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCP Segmente&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Datagramm&#34; title=&#34;Datagramm&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UDP Datagramme&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;[[Schicht 3 - Vermittlungsschicht (Network layer)|Vermittlungsschicht (Network layer)]]&lt;/td&gt;
+          &lt;td&gt;Internet&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Internet_Control_Message_Protocol&#34; title=&#34;Internet Control Message Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICMP&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Internet_Group_Management_Protocol&#34; title=&#34;Internet Group Management Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IGMP&lt;/a&gt;  &lt;br&gt;[[Internet Protocol]]&lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/IPsec&#34; title=&#34;IPsec&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPsec&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Internetwork_Packet_Exchange&#34; title=&#34;Internetwork Packet Exchange&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPX&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Datenpaket&#34; title=&#34;Datenpaket&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pakete&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Router&#34; title=&#34;Router&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Router&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Layer-3-Switch&#34; title=&#34;Layer-3-Switch&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Layer-3-Switch&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;[[Schicht 2 - Sicherungsschicht (Data link layer)|Sicherungsschicht (Data Link layer)]]&lt;/td&gt;
+          &lt;td&gt;Netzzugriff&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Ethernet&#34; title=&#34;Ethernet&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE 802.3 Ethernet&lt;/a&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/IEEE_802.11&#34; title=&#34;IEEE 802.11&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE 802.11 WLAN&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/TokenTalk_Link_Access_Protocol&#34; title=&#34;TokenTalk Link Access Protocol&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TLAP&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Fiber_Distributed_Data_Interface&#34; title=&#34;Fiber Distributed Data Interface&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FDDI&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Media_Access_Control&#34; title=&#34;Media Access Control&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MAC&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Token_Ring&#34; title=&#34;Token Ring&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Token Ring&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/ARCNET&#34; title=&#34;ARCNET&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARCNET&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Datenframe&#34; title=&#34;Datenframe&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frames&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Bridge_%5c%28Netzwerk%5c%29&#34; title=&#34;Bridge (Netzwerk)&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridge&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Switch_%5c%28Netzwerktechnik%5c%29&#34; title=&#34;Switch (Netzwerktechnik)&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Switch&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Wireless_Access_Point&#34; title=&#34;Wireless Access Point&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access Point&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;[[Schicht 1 - Bitübertragungsschicht (Pysical layer)|Bitübertragungsschicht (Physical layer)]]&lt;/td&gt;
+          &lt;td&gt;Netzzugriff&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Ethernet#Gigabit-Ethernet&#34; title=&#34;Ethernet&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1000BASE-T&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Token_Ring&#34; title=&#34;Token Ring&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Token Ring&lt;/a&gt;  &lt;br&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/ARCNET&#34; title=&#34;ARCNET&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARCNET&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Bit&#34; title=&#34;Bit&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bits&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Symbol_%5c%28Nachrichtentechnik%5c%29&#34; title=&#34;Symbol (Nachrichtentechnik)&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Symbole&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Patchkabel&#34; title=&#34;Patchkabel&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netzwerkkabel&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Repeater&#34; title=&#34;Repeater&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Repeater&lt;/a&gt;, &lt;a href=&#34;https://de.wikipedia.org/wiki/Hub_%5c%28Netzwerktechnik%5c%29&#34; title=&#34;Hub (Netzwerktechnik)&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hub&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Merksätze für das ISO/OSI-Modell&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;merksätze-für-das-isoosi-modell&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#merks%c3%a4tze-f%c3%bcr-das-isoosi-modell&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Zum Merken der Schichten des ISO/OSI-Modells auf englisch bietet sich folgender Satz an:
+&lt;em&gt;&lt;strong&gt;P&lt;/strong&gt;lease &lt;strong&gt;D&lt;/strong&gt;o &lt;strong&gt;N&lt;/strong&gt;ot &lt;strong&gt;T&lt;/strong&gt;hrow &lt;strong&gt;S&lt;/strong&gt;alami &lt;strong&gt;P&lt;/strong&gt;izza &lt;strong&gt;A&lt;/strong&gt;way&lt;/em&gt;.
+Der Anfangsbuchstabe jedes Wortes in diesem Satz ist der Anfangsbuchstabe für die Schicht auf englisch. Beginnend mit Schicht 1 arbeitet sich dieser Satz nach oben.&lt;/p&gt;
+&lt;p&gt;Zum Merken der Schichten des ISO/OSI-Modells auf deutsch bietet sich folgender Satz an:
+&lt;em&gt;&lt;strong&gt;A&lt;/strong&gt;lle &lt;strong&gt;d&lt;/strong&gt;eutschen &lt;strong&gt;S&lt;/strong&gt;tudenten &lt;strong&gt;t&lt;/strong&gt;rinken &lt;strong&gt;v&lt;/strong&gt;erschiedene &lt;strong&gt;S&lt;/strong&gt;orten &lt;strong&gt;B&lt;/strong&gt;ier&lt;/em&gt;.
+Der Anfangsbuchstabe jedes Wortes in diesem Satz ist der Anfangsbuchstabe für die Schicht auf deutsch. Beginnend mit Schicht 7 arbeitet sich dieser Satz nach unten.&lt;/p&gt;
+&lt;h3&gt;Einordnung in Schichten&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;einordnung-in-schichten&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#einordnung-in-schichten&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Im ISO/OSI Modell scheint eine Einordnung von Protokollen zuerst recht trivial, jedoch sank die Möglichkeit eindeutiger Einordnung in eine Schicht über die Jahre seit der Einführung dieses Modells. Durch die verbreitete Verwendung von NGFWs, APs, mit DHCP-Fähigkeiten und Router mit eingebautem Access Point, ist eine Einordnung nur noch aufgrund des Hauptverwendungszwecks möglich.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>IT Schutzziele</title>
+      <link>//localhost:1313/docs/it/it-schutzziele/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/it-schutzziele/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#TODO
+Definition: Die IT-Schutzziele sind ein Konzept der IT, welches die Basis zum Schutz von Daten und Informationswerten bildet. Dieses basiert auf [[Sicherheitsprinzipien|den drei Hauptelementen]] Elementen Vertraulichkeit, Integrität und Verfügbarkeit. Um einen effektiven Schutz zu haben, ist es nötig, dass alle Ziele ergriffen werden.&lt;/p&gt;
+&lt;h3&gt;Kategorien&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;kategorien&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#kategorien&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;[[Sicherheitsprinzipien]]&lt;/li&gt;
+&lt;li&gt;[[Informationszustände]]&lt;/li&gt;
+&lt;li&gt;[[Sicherheitsprinzipien]]&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>//localhost:1313/docs/it/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/linux/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Netzwerkprotokolle</title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>UML</title>
+      <link>//localhost:1313/docs/it/uml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/uml/</guid>
+      <description>
+        
+        
+        &lt;p&gt;#TODO
+Definition: Die &lt;a href=&#34;https://de.wikipedia.org/wiki/Unified_Modeling_Language&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UML&lt;/a&gt; (Unified Modeling Language) ist eine grafische &lt;a href=&#34;https://de.wikipedia.org/wiki/Modellierungssprache&#34; title=&#34;Modellierungssprache&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modellierungssprache&lt;/a&gt; zur Dokumentation und Visualisierung von Software und anderen Systemen. Diese ist zum Beispiel in der Version 2.4.1 in der &lt;a href=&#34;https://www.vde-verlag.de/iec-normen/218809/iso-iec-19505-1-2012.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO/IEC 19505&lt;/a&gt; genormt. Diese legt Begriffe bei der Modellierung und mögliche Beziehungen zwischen diesen Begriffen fest. Die UML ist die dominierende Sprache für die Softwaresystem-Modellierung.&lt;/p&gt;
+&lt;h3&gt;Diagrammtypen&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;diagrammtypen&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#diagrammtypen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Es gibt &lt;a href=&#34;https://de.wikipedia.org/wiki/Unified_Modeling_Language#Diagrammtypen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;verschiedenste UML Diagrammtypen&lt;/a&gt;,  wie beispielsweise das [[UML Aktivitätsdiagramm]] oder das [[UML Anwendungsfalldiagramm]].&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

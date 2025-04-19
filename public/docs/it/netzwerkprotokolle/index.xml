@@ -1,0 +1,155 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation – Netzwerkprotokolle</title>
+    <link>//localhost:1313/docs/it/netzwerkprotokolle/</link>
+    <description>Recent content in Netzwerkprotokolle on Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/it/netzwerkprotokolle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>IoT</title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/iot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/iot/</guid>
+      <description>
+        
+        
+        &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;IoT Protokolle&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;[[Bluetooth LE]]&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;[[DECT ULE]]&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;[[LoRa]]&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;[[Matter]]&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;[[MQTT]]&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;[[OPC UA]]&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;offener Standard&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Reichweite&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Verschlüsselung&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Benutzerfreundlich&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lightweight&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Bandbreite&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Energieverbrauch&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;✅&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;❌&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>IP</title>
+      <link>//localhost:1313/docs/it/netzwerkprotokolle/ip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/netzwerkprotokolle/ip/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Das &lt;a href=&#34;https://de.wikipedia.org/wiki/Internet_Protocol&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Internet Protocol&lt;/a&gt; beschreibt stellt die Grundlage des Internets dar. Dieses Protokoll arbeitet auf Schicht 3 (Übertragungsschicht) des ISO-OSI Schichtenmodells.&lt;/p&gt;
+&lt;h4&gt;Versionen&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;versionen&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#versionen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Es gibt mehrere Versionen des Internet Protokolls. Dies wird beispielsweise durch den Anhang &amp;lsquo;v4&amp;rsquo; beschrieben. Folgende Versionen gibt es:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[[_IPv4]] (32bit)
+&lt;ul&gt;
+&lt;li&gt;vorherige Versionen fanden keinen Anklang&lt;/li&gt;
+&lt;li&gt;seit 1983&lt;/li&gt;
+&lt;li&gt;Beispiel: 10.206.128.1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;IPv5
+&lt;ul&gt;
+&lt;li&gt;Ergänzung zu IPv4&lt;/li&gt;
+&lt;li&gt;bereits aufgegeben&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;IPv6 (128bit)
+&lt;ul&gt;
+&lt;li&gt;seit 1998&lt;/li&gt;
+&lt;li&gt;mehr IP-Adressen&lt;/li&gt;
+&lt;li&gt;Beispiel: fe80::201&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;IPv7-9
+&lt;ul&gt;
+&lt;li&gt;Vorschläge für einen IPv4-Nachfolger&lt;/li&gt;
+&lt;li&gt;bereits aufgegeben&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Vergabe&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vergabe&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vergabe&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Öffentliche IP-Adressen werden durch die &lt;a href=&#34;https://de.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Internet Assigned Numbers Authority (IANA)&lt;/a&gt; vergeben. Ein &lt;a href=&#34;https://de.wikipedia.org/wiki/Internetdienstanbieter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISP&lt;/a&gt; bietet meist im Geschäftskundenbereich die Einrichtung einer öffentlichen IP an. Dieser hat einen Adressraum bei einer übergeordneten Institution erworben und kann diesen nun verwalten. Eine öffentliche IP-Adresse kann große Vorteile bieten.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

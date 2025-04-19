@@ -1,0 +1,186 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation – IT Schutzziele</title>
+    <link>//localhost:1313/docs/it/it-schutzziele/</link>
+    <description>Recent content in IT Schutzziele on Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="//localhost:1313/docs/it/it-schutzziele/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/it-schutzziele/gegenma%C3%9Fnahmen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/it-schutzziele/gegenma%C3%9Fnahmen/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Diese Kategorie der [[_IT Schutzziele|IT Schutzziele]] beinhaltet, welche Maßnahmen ergriffen werden sollen, um einen umfassenden und effektiven Schutz zu bieten. Diese verbinden technische Vorkehrungen mit organisatorischen Strategien und der Sensibilisierung der Benutzer.&lt;/p&gt;
+&lt;h3&gt;Technologien, Geräte, Produkte zur Abwehr/Absicherung&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;technologien-geräte-produkte-zur-abwehrabsicherung&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#technologien-ger%c3%a4te-produkte-zur-abwehrabsicherung&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Definition&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;definition&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#definition&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Moderne Hardware und spezialisierte Sicherheitsprodukte bieten Schutz gegenüber Angriffen.&lt;/p&gt;
+&lt;h4&gt;Methoden&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;methoden&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#methoden&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Firewalls und IDS/IPS:&lt;/strong&gt; Erkennung und Blockierung unbefugter Zugriffe.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VPNs:&lt;/strong&gt; Schutz der Datenübertragung.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Anti-Malware-Lösungen:&lt;/strong&gt; Verhinderung der Ausführung schädlicher Software.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Richtlinien, Verfahren, Leitlinien etablieren&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;richtlinien-verfahren-leitlinien-etablieren&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#richtlinien-verfahren-leitlinien-etablieren&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Definition&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;definition-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#definition-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Es müssen feste Richtlinien und Verfahren definiert werden, um den Schutz zu regeln.&lt;/p&gt;
+&lt;h4&gt;Methoden&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;methoden-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#methoden-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zugriffs- und Berechtigungskonzepte:&lt;/strong&gt; Festlegung, wer welche Daten nutzen darf.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sicherheitsprozesse:&lt;/strong&gt; Regelmäßige Überprüfung und Aktualisierung der Sicherheitsmaßnahmen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notfallpläne:&lt;/strong&gt; Vorgehensweisen für den Fall eines Sicherheitsvorfalls.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Einstellung der Benutzer&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;einstellung-der-benutzer&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#einstellung-der-benutzer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Definition&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;definition-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#definition-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Die Benutzer müssen auf Angriffe sensibilisiert werden.&lt;/p&gt;
+&lt;h4&gt;Methoden&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;methoden-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#methoden-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Schulungen:&lt;/strong&gt; Regelmäßige Trainings zu aktuellen Bedrohungen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simulierte Angriffe:&lt;/strong&gt; Übungsszenarien wie Phishing-Test&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/it-schutzziele/informationszust%C3%A4nde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/it-schutzziele/informationszust%C3%A4nde/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Diese Kategorie der [[_IT Schutzziele|IT Schutzziele]] beinhaltet die Element, welche zur Absicherung von Daten in allen Zuständen sorgen.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;table-of-contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#table-of-contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[[#Übertragung|Übertragung]]
+&lt;ul&gt;
+&lt;li&gt;[[#Übertragung:#Definition|Definition]]&lt;/li&gt;
+&lt;li&gt;[[#Übertragung:#Methoden|Methoden]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[[#Speicherung|Speicherung]]
+&lt;ul&gt;
+&lt;li&gt;[[#Speicherung:#Definition|Definition]]&lt;/li&gt;
+&lt;li&gt;[[#Speicherung:#Methoden|Methoden]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[[#Verarbeitung|Verarbeitung]]
+&lt;ul&gt;
+&lt;li&gt;[[#Verarbeitung:#Definition|Definition]]&lt;/li&gt;
+&lt;li&gt;[[#Verarbeitung:#Methoden|Methoden]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Übertragung&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;übertragung&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c3%bcbertragung&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Definition&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;definition&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#definition&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Bei der Übertragung müssen Daten und Systeme während des Datenaustauschs vor unbefugtem Zugriff sowie Manipulation geschützt werden.&lt;/p&gt;
+&lt;h4&gt;Methoden&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;methoden&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#methoden&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transportverschlüsselung:&lt;/strong&gt; Einsatz von Verschlüsselungsprotokollen&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Authentifizierung der Kommunikationspartner:&lt;/strong&gt; Sicherstellung, dass nur berechtigte Systeme miteinander kommunizieren&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Speicherung&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;speicherung&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#speicherung&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Definition&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;definition-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#definition-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Bei der Speicherung von Daten ist sicherzustellen, dass diese dauerhaft vor unbefugtem Zugriff, Verlust oder Manipulation geschützt sind.&lt;/p&gt;
+&lt;h4&gt;Methoden&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;methoden-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#methoden-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Datenverschlüsselung:&lt;/strong&gt; Verschlüsselung der Daten im Ruhezustand&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zugriffskontrolle:&lt;/strong&gt; Regulation des Zugriffs auf Speicherbereiche&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Redundanz:&lt;/strong&gt; Einsatz von redundanten Speichersystemen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Verarbeitung&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;verarbeitung&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#verarbeitung&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Definition&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;definition-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#definition-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Bei der Verarbeitung von Daten müssen diese vor unbefugtem Eingriff oder Manipulation geschützt werden.&lt;/p&gt;
+&lt;h4&gt;Methoden&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;methoden-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#methoden-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Auditierung und Logging:&lt;/strong&gt; Protokollierung von Zugriffen und Änderungen zur Nachvollziehbarkeit&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zugriffskontrolle:&lt;/strong&gt; Definition und Durchsetzung von Berechtigungen für den Datenzugriff&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prozessisolation:&lt;/strong&gt; Trennung von Anwendungen und Prozessen&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/it/it-schutzziele/sicherheitsprinzipien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docs/it/it-schutzziele/sicherheitsprinzipien/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Definition: Diese Kategorie der [[_IT Schutzziele|IT Schutzziele]] beinhaltet die wichtigsten Elemente. Diese benennen Ziele zum Schutz der Cyberwelt.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;table-of-contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#table-of-contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;[[#Vertraulichkeit/Confidentiality|Vertraulichkeit/Confidentiality]]
+&lt;ul&gt;
+&lt;li&gt;[[#Vertraulichkeit/Confidentiality:#Definition|Definition]]&lt;/li&gt;
+&lt;li&gt;[[#Vertraulichkeit/Confidentiality:#Methoden|Methoden]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[[#Integrität/Integrity|Integrität/Integrity]]
+&lt;ul&gt;
+&lt;li&gt;[[#Integrität/Integrity:#Definition|Definition]]&lt;/li&gt;
+&lt;li&gt;[[#Integrität/Integrity:#Methoden|Methoden]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[[#Verfügbarkeit/Availability|Verfügbarkeit/Availability]]
+&lt;ul&gt;
+&lt;li&gt;[[#Verfügbarkeit/Availability:#Definition|Definition]]&lt;/li&gt;
+&lt;li&gt;[[#Verfügbarkeit/Availability:#Methoden|Methoden]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[[#Merkhilfe|Merkhilfe]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;Vertraulichkeit/Confidentiality:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vertraulichkeitconfidentiality&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vertraulichkeitconfidentiality&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Definition&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;definition&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#definition&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Die Daten und Systeme dürfen nur für berechtigte Personen, Ressourcen und Prozessen zugänglich sein. Dabei ist Vertraulichkeit mit Datenschutz gleichzusetzen.&lt;/p&gt;
+&lt;h4&gt;Methoden&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;methoden&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#methoden&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Datenverschlüsselung:&lt;/strong&gt; Lesbarkeit von Daten nur von autorisierte Parteien&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Authentifizierung:&lt;/strong&gt; Überprüfung der Identität eines Benutzers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Zugriffskontrolle&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zugriffskontrolle&lt;/a&gt;:&lt;/strong&gt; Entscheidung, ob auf eine Ressource zugegriffen werden darf&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Integrität/Integrity:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;integritätintegrity&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#integrit%c3%a4tintegrity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Definition&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;definition-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#definition-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Die Daten dürfen nicht manipuliert worden sein. Unbefugte oder unbeabsichtigte Änderungen von Daten erkennen kann.&lt;/p&gt;
+&lt;h4&gt;Methoden&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;methoden-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#methoden-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Kryptografische_Hashfunktion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hashing&lt;/a&gt;:&lt;/strong&gt; Erstellung eines Fingerabdrucks von Daten, um Veränderungen festzustellen&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Versionskontrolle:&lt;/strong&gt; Protokollierung und Verwaltung von Änderungen an Daten und Systemen&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prüfsummen:&lt;/strong&gt; Berechnung einer Prüfsumme um Integrität zu prüfen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Verfügbarkeit/Availability:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;verfügbarkeitavailability&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#verf%c3%bcgbarkeitavailability&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Definition&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;definition-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#definition-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Die Systeme und Daten müssen stets verfügbar und nutzbar sein. Dies bedeutet, dass IT-Ressourcen, Anwendungen und Services zuverlässig und zeitnah bereitgestellt werden, damit Prozesse reibungslos ablaufen. Dabei ist Integrität mit Qualität gleichzusetzen.&lt;/p&gt;
+&lt;h4&gt;Methoden&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;methoden-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#methoden-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Redundanz:&lt;/strong&gt; Einsatz zusätzlicher Hardware und Systeme, um Ausfälle einzelner Komponenten abfangen zu können.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Überwachung und Alarmierung:&lt;/strong&gt; Überwachung der Systemleistung und frühzeitige Benachrichtigung bei Störungen für schnelle Reaktion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notfallwiederherstellungspläne (Disaster Recovery):&lt;/strong&gt; Definierte Verfahren und Maßnahmen zur zeitnahen Wiederherstellung der IT-Infrastruktur im Krisenfall.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Merkhilfe&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;merkhilfe&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#merkhilfe&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Um sich diese wichtigen Ziele besser merken zu können, gibt es als Eselbrücke für die deutschen Begriffe das Wort &amp;lsquo;&lt;em&gt;VIV&lt;/em&gt;&amp;rsquo; und für die englischen Begriffe das Wort &amp;lsquo;&lt;em&gt;CIA&lt;/em&gt;&amp;rsquo;, wobei jeder Buchtstabe im Wort der Anfangsbuchstabe des Wortes eines Elements der IT-Schutzziele bildet.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
