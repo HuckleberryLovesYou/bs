@@ -1,4 +1,4 @@
-module github.com/imfing/hextra-starter-template
+module github.com/HuckleberryLovesYou/HuckleberryLovesYou
 
 go 1.21
 
