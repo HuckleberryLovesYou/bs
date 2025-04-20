@@ -7,13 +7,6 @@ toc: false
 
 This site hosts comprehensive documentation for vocational school content, carefully curated and maintained by Tim Matheis. Our goal is to provide clear, accurate, and accessible educational resources.
 
-## Quick Access
-
-{{< cards >}}
-  {{< card link="docs" title="Documentation" icon="book-open" subtitle="Browse through our extensive collection of educational materials" >}}
-  {{< card link="about" title="About" icon="user" subtitle="Learn more about this documentation project" >}}
-{{< /cards >}}
-
 ## Contributing
 
 We welcome contributions from the community! If you'd like to help improve this documentation:
