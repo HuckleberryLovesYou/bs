@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "hugo",
-  "installCommand": "git submodule update --init --recursive",
+  "installCommand": "hugo mod get -u && hugo mod tidy",
   "buildCommand": "hugo --gc --minify"
 }
