@@ -8,23 +8,6 @@ sidebar:
 
 Definition: [Energie](https://de.wikipedia.org/wiki/Energie) und [Leistung](https://de.wikipedia.org/wiki/Leistung_\(Physik\)) beschreibt das Leisten von Arbeit und die in einer Zeitspanne umgesetzte Energie.
 
-## Table of Contents
-
-- [[#Grundgrößen|Grundgrößen]]
-    - [[Energie und Leistung#[ 1]Spannung|Spannung]]
-    - [[Energie und Leistung#[ 1]Stromstärke|Stromstärke]]
-    - [[Energie und Leistung#[ 1]Leistung|Leistung]]
-    - [[Energie und Leistung#[ 1]Wiederstand|Wiederstand]]
-    - [[Energie und Leistung#[ 1]Ladung|Ladung]]
-    - [[Energie und Leistung#[ 1]Wirkungsgrad|Wirkungsgrad]]
-    - [[Energie und Leistung#[ 1]Arbeit/Energie|Arbeit/Energie]]
-- [[#Beispielsaufgaben|Beispielsaufgaben]]
-    - [[#Beispielsaufgaben#Aufgabe 1|Aufgabe 1]]
-    - [[#Beispielsaufgaben#Aufgabe 2|Aufgabe 2]]
-    - [[#Beispielsaufgaben#Aufgabe 6|Aufgabe 6]]
-
----
-
 ### Grundgrößen
 
 #### [^1]Spannung
