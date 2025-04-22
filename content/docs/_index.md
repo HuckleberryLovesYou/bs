@@ -12,7 +12,6 @@ We welcome contributions from the community! If you'd like to help improve this 
 - Create a pull request on our [GitHub repository](https://github.com/HuckleberryLovesYou/bs)
 - Follow our folder structure and naming conventions
 - Ensure your contributions are accurate and well-documented
-- Contact me directly for any questions or suggestions
 
 ## Stay Connected
 

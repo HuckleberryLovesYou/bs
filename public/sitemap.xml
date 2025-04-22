@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/docs/</loc>
+  </url><url>
     <loc>//localhost:1313/docs/bgp/beschaffungsprozess/</loc>
   </url><url>
     <loc>//localhost:1313/docs/bgp/bezugskalkulation/</loc>
@@ -125,8 +127,6 @@
     <loc>//localhost:1313/docs/deutsch/</loc>
   </url><url>
     <loc>//localhost:1313/</loc>
-  </url><url>
-    <loc>//localhost:1313/docs/</loc>
   </url><url>
     <loc>//localhost:1313/docs/it/energie-und-leistung/</loc>
   </url><url>
