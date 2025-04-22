@@ -1,5 +1,4 @@
 ---
-title: Documentation
 ---
 
 # Welcome to the Documentation Hub
