@@ -1,11 +1,19 @@
 ---
+title: Documentation
+toc: false
 ---
 
-# Welcome to the Documentation Hub
+# DEPRECATED
+
+This site is no longer maintained. Please *visit the new site at [docs.timmatheis.com](https://docs.timmatheis.com)*
+
+---
+
+## Welcome to the Documentation Hub
 
 This site hosts comprehensive documentation for vocational school content, carefully curated and maintained by Tim Matheis. Our goal is to provide clear, accurate, and accessible educational resources.
 
-## Contributing
+### Contributing
 
 We welcome contributions from the community! If you'd like to help improve this documentation:
 
@@ -13,7 +21,7 @@ We welcome contributions from the community! If you'd like to help improve this 
 - Follow our folder structure and naming conventions
 - Ensure your contributions are accurate and well-documented
 
-## Stay Connected
+### Stay Connected
 
 Feel free to reach out through:
 - Email: [mail@timmatheis.com](mailto:mail@timmatheis.com)
